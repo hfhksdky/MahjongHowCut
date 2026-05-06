@@ -72,7 +72,11 @@ function sessionStillValid() {
 function writeSession() {
   const minutes = Math.max(1, Number(ACCESS_CONFIG.sessionMinutes) || 1);
   const expireAt = Date.now() + minutes * 60 * 1000;
-  localStorage.setItem(ACCESS_CONFIG.sessionKey, JSON.stringify({ expireAt }));
+  try {
+    localStorage.setItem(ACCESS_CONFIG.sessionKey, JSON.stringify({ expireAt }));
+  } catch {
+    // Ignore storage failures (private mode / strict browser policy).
+  }
 }
 
 async function queryHashPassed() {
@@ -146,11 +150,11 @@ function renderFatalError(message) {
 
 function escapeHtml(text) {
   return String(text || "")
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#39;");
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
 }
 
 function unlockAndBoot() {

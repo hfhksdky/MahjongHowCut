@@ -52,6 +52,27 @@
         </div>
       </section>
     </main>
-    <script src="./auth.js"></script>
+    <script>
+      (function () {
+        function unlockFallback(reason) {
+          if (window.__MAHJONG_ACCESS_GRANTED__) return;
+          document.body.classList.remove("preauth");
+          if (document.getElementById("auth-fallback-msg")) return;
+          var p = document.createElement("p");
+          p.id = "auth-fallback-msg";
+          p.className = "bad";
+          p.style.margin = "10px 20px";
+          p.textContent = "Auth 暫時失效（" + reason + "），已先顯示內容。";
+          document.body.insertBefore(p, document.body.firstChild);
+        }
+        window.setTimeout(function () {
+          unlockFallback("timeout");
+        }, 1800);
+        window.__authScriptLoadError = function () {
+          unlockFallback("load-error");
+        };
+      })();
+    </script>
+    <script src="./auth.js" onerror="window.__authScriptLoadError && window.__authScriptLoadError()"></script>
   </body>
 </html>

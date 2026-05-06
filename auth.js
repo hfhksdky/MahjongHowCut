@@ -159,6 +159,10 @@ function escapeHtml(text) {
 
 function unlockAndBoot() {
   window.__MAHJONG_ACCESS_GRANTED__ = true;
+  if (typeof window.__authScriptLoadError === "function") {
+    // Mark as successful boot to avoid fallback unlocking message.
+    window.__authScriptLoadError = null;
+  }
   document.body.classList.remove("preauth");
   const src = document.documentElement.getAttribute("data-protected-script");
   if (!src) return;

@@ -400,3 +400,27 @@ textarea {
   opacity: 0.45;
   cursor: not-allowed;
 }
+
+@media (max-width: 640px) {
+  .container {
+    padding: 12px;
+  }
+
+  .choices {
+    gap: 8px;
+  }
+
+  .choice-btn {
+    min-width: 108px;
+    min-height: 40px;
+    padding: 7px 10px;
+    font-size: 0.9rem;
+    line-height: 1.2;
+    border-radius: 7px;
+  }
+
+  .inline-outcome {
+    font-size: 10px;
+    max-width: min(88px, 26vw);
+  }
+}

@@ -646,7 +646,7 @@ function createWrappedChoiceButton(choiceText, interactionIndex) {
   wrap.className = "choice-with-feedback choice-row";
   const btn = document.createElement("button");
   btn.className = "choice-btn";
-  btn.textContent = choiceText;
+  btn.innerHTML = renderChoiceLabel(choiceText);
   btn.addEventListener("click", () => submitAnswer(choiceText, { interactionIndex }));
   const out = document.createElement("div");
   out.className = "inline-outcome";
@@ -654,6 +654,21 @@ function createWrappedChoiceButton(choiceText, interactionIndex) {
   wrap.appendChild(btn);
   wrap.appendChild(out);
   return wrap;
+}
+
+function renderChoiceLabel(text) {
+  const s = escapeHtmlForChoice(String(text || ""));
+  // Wrap Mahjong Unicode tiles so mobile can control glyph size.
+  return s.replace(/([\uD83C][\uDC00-\uDC2F])/g, '<span class="choice-tile-inline">$1</span>');
+}
+
+function escapeHtmlForChoice(text) {
+  return String(text || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
 }
 
 function renderTileFace(tileCode) {

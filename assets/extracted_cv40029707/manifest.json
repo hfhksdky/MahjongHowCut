@@ -1,0 +1,35 @@
+{
+  "cv": 40029707,
+  "fromHtml": null,
+  "source_api": "https://api.bilibili.com/x/article/view (WBI-signed)",
+  "images": {
+    "q47": {
+      "url": "https://i0.hdslb.com/bfs/article/6e87871f44f2916431c3f1794a2ce51d1642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv40029707/q47.png"
+    },
+    "q48": {
+      "url": "https://i0.hdslb.com/bfs/article/5a8e654b7781280ac178acbf978c72981642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv40029707/q48.png"
+    },
+    "q49": {
+      "url": "https://i0.hdslb.com/bfs/article/483755725dc5e65d96e0ee0bb0bb9cec1642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv40029707/q49.png"
+    },
+    "q50": {
+      "url": "https://i0.hdslb.com/bfs/article/1c05cdb771ba36f3b5f66af26f0ce06b1642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv40029707/q50.png"
+    },
+    "q51": {
+      "url": "https://i0.hdslb.com/bfs/article/3ed624477f1755ee4340d892d4bb87301642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv40029707/q51.png"
+    },
+    "q52": {
+      "url": "https://i0.hdslb.com/bfs/article/097219bc44b9185bc3ae609e018b91491642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv40029707/q52.png"
+    },
+    "q53": {
+      "url": "https://i0.hdslb.com/bfs/article/41751e1c6f2fb64bbc7dedb3c727ba7d1642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv40029707/q53.png"
+    }
+  }
+}

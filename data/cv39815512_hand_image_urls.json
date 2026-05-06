@@ -1,0 +1,12 @@
+{
+  "note": "Snapshot from article HTML parsing (cv39815512). Order skips Bilibili divider image 02db465212d3c374a43c60fa2625cc1caeaab796.png. Replace via tools/fetch_cv_question_images.py --from-html ... if article edits.",
+  "cv": 39815512,
+  "images": {
+    "q1": "https://i0.hdslb.com/bfs/article/5177b0c3c2483424bdbb916716adc71d1642900.png",
+    "q2": "https://i0.hdslb.com/bfs/article/eabec7442262b1eddd5a6fb143f0c3fb1642900.png",
+    "q3": "https://i0.hdslb.com/bfs/article/1b8cc898c372743c315b3ee03b34eb151642900.png",
+    "q4": "https://i0.hdslb.com/bfs/article/bff577b3ffad39ae4ec931aba9fd1dab1642900.png",
+    "q5": "https://i0.hdslb.com/bfs/article/79595374712a7215226bb8e7a60f657c1642900.png",
+    "q6": "https://i0.hdslb.com/bfs/article/e8bfc4584ec624c76fe77982f1c4dac01642900.png"
+  }
+}

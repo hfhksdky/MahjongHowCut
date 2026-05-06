@@ -1,0 +1,6030 @@
+{
+  "sourceSet": "何切 金 Q1-Q203",
+  "sourceUrl": "https://www.bilibili.com/read/cv39815512/?from=search&spm_id_from=333.337.0.0&opus_fallback=1",
+  "sourceUrlQ7Q10": "https://www.bilibili.com/read/cv39816653",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Q1",
+      "type": "tile",
+      "context": {
+        "round": "東1局",
+        "turn": "3巡目",
+        "seatWind": "東家",
+        "dora": "9p"
+      },
+      "handTiles": [
+        "7m",
+        "7m",
+        "1p",
+        "2p",
+        "2p",
+        "7p",
+        "9p",
+        "4s",
+        "4s",
+        "5s",
+        "7s",
+        "中",
+        "中"
+      ],
+      "drawTile": "8p",
+      "answer": "7s",
+      "answerLine": "書中解答：7s。 兩向聽【7s x34, 1p x 30, 5s x 26, 2p x 18,4s x 18, 中 x14】",
+      "solutionText": "麻將的胡牌形狀，需要4組三枚牌組成的面子加上2枚牌組成的雀頭的【4面子1雀頭】形狀。這個4 + 1組成的5組搭子，從【形狀的好壞】，【打點層面（手役還是dora）】上考慮，收集【5組最強搭子】更好。把手牌拆成搭子就會成以上的牌型，已經確保了有5組搭子，就是時候尋找“沒了它也可以”的牌了。即便沒了7s，摸上6s的時候也能組成456s，所以切7s正解。",
+      "tags": [
+        "進張",
+        "搭子選擇",
+        "何切"
+      ],
+      "difficulty": "初級",
+      "references": [
+        {
+          "label": "Bilibili：何切 金 Q1-Q6",
+          "url": "https://www.bilibili.com/read/cv39815512/?from=search&spm_id_from=333.337.0.0&opus_fallback=1"
+        }
+      ],
+      "questionImage": null
+    },
+    {
+      "id": "q2",
+      "title": "Q2",
+      "type": "tile",
+      "context": {
+        "round": "東1局",
+        "turn": "4巡目",
+        "seatWind": "東家",
+        "dora": "3p"
+      },
+      "handTiles": [
+        "7m",
+        "7m",
+        "1p",
+        "2p",
+        "2p",
+        "7p",
+        "8p",
+        "9p",
+        "4s",
+        "4s",
+        "8s",
+        "中",
+        "中"
+      ],
+      "drawTile": "中",
+      "answer": "4s",
+      "answerLine": "書中解答：4s。 1向聽【2p x 16, 4s x 16,1p x 14, 5s x 10】",
+      "solutionText": "剛好5組搭子，好像沒牌可切。這時候就要注意對子（雀頭後補）的數目了。有7m 2p 4s這3組對子，變成2組吧。切4s就是最大進張，所有的牌都能起作用的形狀。【固定強搭子的部分(455s)，留下弱搭子(122p)的follow牌】",
+      "tags": [
+        "2雀頭理論",
+        "最大進張",
+        "何切"
+      ],
+      "difficulty": "初級",
+      "references": [
+        {
+          "label": "Bilibili：何切 金 Q1-Q6",
+          "url": "https://www.bilibili.com/read/cv39815512/?from=search&spm_id_from=333.337.0.0&opus_fallback=1"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39815512/q2.png"
+    },
+    {
+      "id": "q3",
+      "title": "Q3",
+      "type": "tile",
+      "context": {
+        "round": "東1局",
+        "turn": "5巡目",
+        "seatWind": "東家",
+        "dora": "9p"
+      },
+      "handTiles": [
+        "7m",
+        "7m",
+        "1p",
+        "2p",
+        "2p",
+        "5p",
+        "8p",
+        "9p",
+        "2s",
+        "2s",
+        "中",
+        "中",
+        "中"
+      ],
+      "drawTile": "6m",
+      "answer": "1p",
+      "answerLine": "書中解答：1p。1向聽【1p x 20, 6m x 16, 7m x 16, 2p x 12】",
+      "solutionText": "打1p就是完全一向聽的形狀。完全一向聽指的是無論摸到什麼最後都能變成兩面聽牌的1向聽。這裡以完全1向聽為目標來打牌是王道。關鍵點在於準備好2組雀頭後補。這個構造下無論那組雀頭後補組成的面子（777m或者678m），剩下那邊當雀頭就好了。※做出帶有包含2組雀頭的好形1向聽才是聽牌的捷徑。這個思考方式叫“2雀頭理論”。本書通篇都要使用此理論，所以繼續閱讀下去要意識到雀頭的數量。",
+      "tags": [
+        "2雀頭理論",
+        "完全一向聽",
+        "何切"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：何切 金 Q1-Q6",
+          "url": "https://www.bilibili.com/read/cv39815512/?from=search&spm_id_from=333.337.0.0&opus_fallback=1"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39815512/q3.png"
+    },
+    {
+      "id": "q4",
+      "title": "Q4",
+      "type": "tile",
+      "context": {
+        "round": "東1局",
+        "turn": "6巡目",
+        "seatWind": "東家",
+        "dora": "3p"
+      },
+      "handTiles": [
+        "6m",
+        "7m",
+        "7m",
+        "2p",
+        "2p",
+        "5p",
+        "8p",
+        "9p",
+        "4s",
+        "5s",
+        "中",
+        "中",
+        "中"
+      ],
+      "drawTile": "4s",
+      "answer": "7m",
+      "answerLine": "書中解答：7m 1向聽【7m x 20, 5s x 20, 6m x 14, 4s x 14】",
+      "solutionText": "帶著有2組雀頭的意識來打牌。組成2組雀頭的話就是切7m或者5s。這裡切7m是正解。關鍵點在於有赤的存在。打7m的話即使摸到0m或者0s也能用得上。再且，【端牌上的兩面很強】這個視點上打7m有利。",
+      "tags": [
+        "2雀頭理論",
+        "赤牌",
+        "何切"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：何切 金 Q1-Q6",
+          "url": "https://www.bilibili.com/read/cv39815512/?from=search&spm_id_from=333.337.0.0&opus_fallback=1"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39815512/q4.png"
+    },
+    {
+      "id": "q5",
+      "title": "Q5",
+      "type": "choice",
+      "context": {},
+      "prompt": "有4枚中呢，可以暗槓哦",
+      "choices": [
+        "槓",
+        "不槓（改打7m）"
+      ],
+      "answer": "槓",
+      "answerLine": "書中解答：槓",
+      "solutionText": "役牌的暗槓就已經32符了，跟加1翻有同樣的價值。看場上情況沒啥大問題的話就全力去槓吧。選擇不槓而打出7m的話，那就要理解到【4枚損】，【無法碰聽】這些。※雖說有很多役牌暗槓的時機的理論，但作為新手來說，“好像能胡就槓”，“好想贏就槓”，“沒牌打了就槓”這種理由的話就大膽的開槓也是可以的。這次的手牌，以上的理由都是OK的，所以就槓吧。",
+      "tags": [
+        "暗槓",
+        "役牌",
+        "操作判斷"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：何切 金 Q1-Q6",
+          "url": "https://www.bilibili.com/read/cv39815512/?from=search&spm_id_from=333.337.0.0&opus_fallback=1"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39815512/q5.png"
+    },
+    {
+      "id": "q6",
+      "title": "Q6",
+      "type": "choice",
+      "context": {
+        "round": "東1局",
+        "turn": "第8巡",
+        "seatWind": "東家",
+        "dora": "9p跟南"
+      },
+      "prompt": "還是東1局 第8巡 東家 dora還是9p跟南",
+      "choices": [
+        "打7m立直",
+        "默聽"
+      ],
+      "answer": "打7m立直",
+      "answerLine": "書中解答：打7m立直 聽牌【7m x 8, 6m x 4】",
+      "solutionText": "役牌暗槓就已經32符了。親家默聽榮和的話也只是70符2翻的6800，帶上立直就能直接上升到滿貫（親家12000）。打點效率都很好所以立直。要是中裡說不定還能看到跳滿或者倍滿。",
+      "tags": [
+        "立直判斷",
+        "打點效率",
+        "操作判斷"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：何切 金 Q1-Q6",
+          "url": "https://www.bilibili.com/read/cv39815512/?from=search&spm_id_from=333.337.0.0&opus_fallback=1"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39815512/q6.png"
+    },
+    {
+      "id": "q7",
+      "title": "Q7",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖，在浮牌中應打出哪一張？（順序與專欄「浮牌价值」候選一致）",
+      "choices": [
+        "1p",
+        "4p",
+        "中"
+      ],
+      "answer": "1p",
+      "answerLine": "書中解答：1p。2向聽【1p x 20, 4p x 20, 中 x 20, 2s x 17】",
+      "solutionText": "比較的是浮牌 1p 與中：有足夠打點但難組手役，因此中價值較高；且已有 4p 時，即便沒了 1p 也不致讓 23p 成裏目，故 1p 價值變低。浮牌價值：4p＞中＞1p。※此處浮牌指孤立牌；正確強度仍以當手 14 張一併判斷為準。",
+      "tags": [
+        "浮牌強度",
+        "何切"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：何切 金 Q7-Q10（cv39816653）",
+          "url": "https://www.bilibili.com/read/cv39816653"
+        },
+        {
+          "label": "Opus（同文）",
+          "url": "https://www.bilibili.com/opus/1001698046913806392"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39816653/q7.png"
+    },
+    {
+      "id": "q8",
+      "title": "Q8",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖，在浮牌中應打出哪一張？",
+      "choices": [
+        "中",
+        "2p",
+        "5p"
+      ],
+      "answer": "中",
+      "answerLine": "書中解答：中。2向聽【中x54 , 2p x 50, 1s x 49, 5p x 46, 6s x 41, 9s x 41】",
+      "solutionText": "222m＋1123s＋6789s 基本上保有三組面子與雀頭，追求的是兩面搭子；摸 14p 或 36p 聽牌兩邊都不想放棄，因此留下 2p、5p。浮牌價值：5p＞2p＞中。",
+      "tags": [
+        "浮牌強度",
+        "搭子保留",
+        "何切"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：何切 金 Q7-Q10（cv39816653）",
+          "url": "https://www.bilibili.com/read/cv39816653"
+        },
+        {
+          "label": "Opus（同文）",
+          "url": "https://www.bilibili.com/opus/1001698046913806392"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39816653/q8.png"
+    },
+    {
+      "id": "q9",
+      "title": "Q9",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖，應打出哪一張浮牌？",
+      "choices": [
+        "8m",
+        "1p"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解答：8m。1向聽【3s x 17, 8m x 16, 1p x 13, 4p x 9】",
+      "solutionText": "8m 與 1p 皆為浮牌：若留住 1p，摸進 2p 可成形如 1234p、利於立直聽 14p 的四連形，這是在尚無雀頭時的常用技巧；依當局形勢仍以打出 8m 為書中結論。浮牌價值：1p＞8m。",
+      "tags": [
+        "浮牌強度",
+        "一向聽",
+        "何切"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：何切 金 Q7-Q10（cv39816653）",
+          "url": "https://www.bilibili.com/read/cv39816653"
+        },
+        {
+          "label": "Opus（同文）",
+          "url": "https://www.bilibili.com/opus/1001698046913806392"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39816653/q9.png"
+    },
+    {
+      "id": "q10",
+      "title": "Q10",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖，應打出哪一張浮牌？",
+      "choices": [
+        "1p",
+        "8m"
+      ],
+      "answer": "1p",
+      "answerLine": "書中解答：1p。1向聽【8m x 12, 1p x 12, 4p x 8】",
+      "solutionText": "8m 與 1p 皆非必要張；摸到 2p 時即便沒有 1p 也能聽牌，故應留住 8m 以期做出兩面聽。書中要你打出的牌為 1p。浮牌價值：8m＞1p。（專欄原文將「8m」誤繕為「8n」處已依牌意更正。）",
+      "tags": [
+        "浮牌強度",
+        "一向聽",
+        "何切"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：何切 金 Q7-Q10（cv39816653）",
+          "url": "https://www.bilibili.com/read/cv39816653"
+        },
+        {
+          "label": "Opus（同文）",
+          "url": "https://www.bilibili.com/opus/1001698046913806392"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39816653/q10.png"
+    },
+    {
+      "id": "q11",
+      "title": "Q11",
+      "type": "choice",
+      "context": {},
+      "prompt": "浮牌比較題：依題圖，應先打哪一張？",
+      "choices": [
+        "4s",
+        "7m",
+        "7p"
+      ],
+      "answer": "4s",
+      "answerLine": "書中解答：4s。1向聽【7m x 43, 4s x 43, 7p x 40】",
+      "solutionText": "比較浮牌 7m、4s、7p。留 7p 是因為仍可看三面聽可能；7m 與 4s 比較時，靠近端牌的浮牌一般較優，因此推薦先打 4s。文中並提到實戰可同時考慮瞬間安全度與後續摸到赤牌時的可替換安全度。",
+      "tags": [
+        "浮牌強度",
+        "安全度",
+        "何切"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39823691",
+          "url": "https://www.bilibili.com/read/cv39823691"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39823691/q11.png"
+    },
+    {
+      "id": "q12",
+      "title": "Q12",
+      "type": "choice",
+      "context": {},
+      "prompt": "浮牌比較題：依題圖，應先打哪一張？",
+      "choices": [
+        "5s",
+        "7m",
+        "7p"
+      ],
+      "answer": "5s",
+      "answerLine": "書中解答：5s。1向聽【5s x 43, 7m x 42, 7p x 39】",
+      "solutionText": "雖然直觀上不一定先切 5s，但文中指出即使留下 5s，後續多形成 36s 或 47s 這類中張兩面，作為浮牌強度並不高；因此在 5s、7m、7p 的比較下，推薦先打 5s。",
+      "tags": [
+        "浮牌強度",
+        "何切"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39823691",
+          "url": "https://www.bilibili.com/read/cv39823691"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39823691/q12.png"
+    },
+    {
+      "id": "q13",
+      "title": "Q13",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "6s",
+        "9s",
+        "7p",
+        "7s",
+        "8s"
+      ],
+      "answer": "9s",
+      "answerLine": "書中解析：9s 1向听【7m x44, 6s x 43, 9s x 43, 7p x41】222m+345p + 11s + 678s就已经保证了3组面子跟1雀头的形状了，要的是两面搭子。6789s虽然是四连形，但要是摸了8s成了67889s就变弱了，组成两面搭子反而不利。推荐打9s固定678s。浮牌价值：7p > 7m > 6s(9s)※ 像以下的数牌组成的形状叫做四连形，虽说都是四连形，但数字的不同在价值上也会形成很大的差异4567s (摸38s形成三面，摸56s形成两面)5678s (摸4s形成三面，摸679s形成两面)6789s (没法做成三面听牌，摸57s形成两面)",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39823691",
+          "url": "https://www.bilibili.com/read/cv39823691"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39823691/q13.png"
+    },
+    {
+      "id": "q14",
+      "title": "Q14",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "7p",
+        "5s",
+        "8s"
+      ],
+      "answer": "7m",
+      "answerLine": "書中解析：7m 1向听【7m x48, 7p x 45, 5s x 43, 8s x 43】考虑好形听牌就好。3457p摸6p形成3面，5678s摸4s形成三面。浮牌价值：5s > 7p > 7m",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39823691",
+          "url": "https://www.bilibili.com/read/cv39823691"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39823691/q14.png"
+    },
+    {
+      "id": "q15",
+      "title": "Q15",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "89m",
+        "4m",
+        "8m",
+        "9m",
+        "2s",
+        "4s"
+      ],
+      "answer": "89m",
+      "answerLine": "書中解析：89m 2向听【4m x 24, 8m x 20, 9m x 20, 2s x 20, 4s x 20, 7s x 20】胡牌形状应该是【四面子1雀头】的5 block，现在手中有6 block，我们称它为“面子超载”（或者搭子超载）。选择搭子的时候遵循这【两面 > 坎张 > 边张】这个强度顺序，这里就应该拆掉一组最弱的搭子，也就是89m。至于先切8m还是9m，要是断么重视的话就打9m，要是重视危险度的话打8m。",
+      "solutionText": "搭子的强度排序两面 > 坎张 > 边张34p > 24s > 89m",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39887515",
+          "url": "https://www.bilibili.com/read/cv39887515"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39887515/q15.png"
+    },
+    {
+      "id": "q16",
+      "title": "Q16",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4m",
+        "2p",
+        "4p",
+        "2s",
+        "4s",
+        "6s"
+      ],
+      "answer": "2p",
+      "answerLine": "書中解析：2p 2向听【4m x 15,2p x 15, 4p x 15, 2s x 15, 4s x 15, 6s x 15, 7s x 15】6 block的搭子超载。对子4对也是七对子2向听，尽可能的话就不要拆对子来进行。那就拆掉跟对子没啥关系的24p把，先打2p是因为保留了摸0p的可能的情况。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39887515",
+          "url": "https://www.bilibili.com/read/cv39887515"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39887515/q16.png"
+    },
+    {
+      "id": "q17",
+      "title": "Q17",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "9m",
+        "2p",
+        "4p",
+        "7p",
+        "3s",
+        "4m"
+      ],
+      "answer": "4m",
+      "answerLine": "書中解析：4m 3向听【9m x 55, 2p x 55, 4p x 55,7p x 51, 3s x 51, 4m x 36】",
+      "solutionText": "6 block搭子超载，按照之前说的应该拆24p....但！440m这个block要是摸了4m是要打0m的。再说，手牌3向听，两面搭子3组，雀头后补2组，作为面子手来说形状挺好，那就切掉一枚4m去固定40m搭子把。结果上还是维持了6搭子，但下一巡也不能保证能摸进3p。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39887515",
+          "url": "https://www.bilibili.com/read/cv39887515"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39887515/q17.png"
+    },
+    {
+      "id": "q18",
+      "title": "Q18",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "9m",
+        "2p",
+        "4p",
+        "7p",
+        "7s"
+      ],
+      "answer": "2p",
+      "answerLine": "書中解析：2p 3向听【8m x 4, 9m x 24, 2p x 24, 4p x 24, 7p x 20, 7s x 20】6 block搭子超载，还是要拆一组最弱的搭子。通往听牌的道路上最好有两组雀头候补，所以889m跟77s就不动它。因此推荐打掉变化上最弱的24p坎张搭子。先切2p还是4p，因为有可能摸进0p的原因就先从2p开始",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39887515",
+          "url": "https://www.bilibili.com/read/cv39887515"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39887515/q18.png"
+    },
+    {
+      "id": "q19",
+      "title": "Q19",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4m",
+        "8p",
+        "7s",
+        "2p",
+        "4p",
+        "2s"
+      ],
+      "answer": "4m",
+      "answerLine": "書中解析：4m 2向听【4m x 20, 8p x 20, 7s x 20, 2p x 18, 4p x 18, 2s x 18】6 block搭子超载，按理来说应该要拆掉一组最弱的...但【选不出弱搭子】【能看到三色】【3雀头很弱】这些理由，那就推荐维持6 block打4m把",
+      "solutionText": "※【3雀头很弱】在这里维持6 block的其中一个理由，但对新手来说很容易搞混乱。要是想深入了解的话可以查看【uzaku麻将学习 牌效率】中的【3雀头最弱理论】（译者注：感谢zefurikuzefuriku提供的翻译https://www.bilibili.com/opus/616316429610661435）",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39887515",
+          "url": "https://www.bilibili.com/read/cv39887515"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39887515/q19.png"
+    },
+    {
+      "id": "q20",
+      "title": "Q20",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "89m",
+        "4m",
+        "8m",
+        "9m",
+        "2p",
+        "4p"
+      ],
+      "answer": "89m",
+      "answerLine": "書中解析：89m 2向听【4m x 15, 8m x 15, 9m x 15, 2p x 15,4p x 15, 2s x 15】",
+      "solutionText": "6 block的搭子超载，那就按照搭子强弱排序【两面 > 坎张 > 边张】去拆到最弱的搭子把。同时也是七对子2向听，要注意到不能拆掉对子哦。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39887515",
+          "url": "https://www.bilibili.com/read/cv39887515"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39887515/q20.png"
+    },
+    {
+      "id": "q21",
+      "title": "Q21",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4m",
+        "4p",
+        "5p",
+        "5m",
+        "8p",
+        "6s"
+      ],
+      "answer": "6s",
+      "answerLine": "書中解析：6s  2向听【4m x 39, 4p x 39, 5p x 39, 5m x 30, 8p x 30, 6s x 30】这里的6677s看成2 block把索子部分看成2 block的话就有6 block了因此超载了。6677s切掉1枚6s弄成3枚牌组成的搭子是个比较柔软的做法。后面，要是摸上了3p，手牌就可以变成了以下的完全一向听。※ 6677s这种形状称为【double面子】，这里切掉67s的打法叫做【拆掉double 面子】。比较6s跟7s的危险度的话，基本上靠中间的危险度越高，因此先切6s。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39887515",
+          "url": "https://www.bilibili.com/read/cv39887515"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39887515/q21.png"
+    },
+    {
+      "id": "q22",
+      "title": "Q22",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2p",
+        "4p",
+        "4m",
+        "5m",
+        "8p",
+        "6s"
+      ],
+      "answer": "2p",
+      "answerLine": "書中解析：2p 2向听【2p x 39, 4p x 39, 4m x 35, 5m x 26, 8p x 26, 6s x 26】也有打5m去固定40m这打法，但因为也有【七对子4对2向听】，摸到58s的话就成了完全一向听的牌了，推荐拆掉24p",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39887515",
+          "url": "https://www.bilibili.com/read/cv39887515"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39887515/q22.png"
+    },
+    {
+      "id": "q23",
+      "title": "Q23",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "8巡目",
+        "seatWind": "東家"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5m",
+        "8s"
+      ],
+      "answer": "8s",
+      "answerLine": "書中解析：8s 听牌【5m x 6, 8s x 6】打8s后是听58m 共6枚打5m后听58s 共6枚哪边都是6枚，靠近端牌的待牌数量多的那边通常容易胡到。实战应用上【瞬间的安全度】【摸到红宝牌也能替换的时候的安全度】这些因素考虑，实战上打8s也是好处多多",
+      "solutionText": "※这里说的【安全度】【危险度】这些，指的是打出去后会不会给其他家荣和的可能性的一个数值影响。一般来说，3~7的数牌这些容易用上的基本全员都想要就比较危险，1，9，字牌字牌这些比较难用上的就比较安全。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39888172",
+          "url": "https://www.bilibili.com/read/cv39888172"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39888172/q23.png"
+    },
+    {
+      "id": "q24",
+      "title": "Q24",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "8巡目",
+        "seatWind": "東家"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8s",
+        "3m",
+        "5m",
+        "3p",
+        "4p",
+        "6s"
+      ],
+      "answer": "3m",
+      "answerLine": "書中解析：3m 1向听【8s x 27, 3m x 20, 5m x 17, 3p x 13,4p x 13,6s x 12】打8s就是进张最广，但是一旦34p摸成了雀头就要听坎4m就有点不好。另外，用吃听的方法去得到好形听牌的数量也很少。这里就重视好形听牌，推荐打3m。这个做牌的话，吃到58m, 58s的话就可以听25p了。即便吃到25p也是可以有选择 （译者注：吃到25p就是上面那道题啦~）",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39888172",
+          "url": "https://www.bilibili.com/read/cv39888172"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39888172/q24.png"
+    },
+    {
+      "id": "q25",
+      "title": "Q25",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "8巡目",
+        "seatWind": "東家"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5m",
+        "0s",
+        "8s"
+      ],
+      "answer": "5m",
+      "answerLine": "書中解析：5m 听牌【5m x 6, 0s x 6, 8s x 6】5m, 0s, 8s，切哪张都是6枚，以下2点就说明了打5m有利。要是，摸了4s就是三面听牌。自摸的场合肯定跳符（※ 中明刻4符，2p 暗刻4符， 单骑听牌2符，自摸2符）还有，要是摸了134p，听牌的待牌上也发生了变化，那就要根据场上情况来想“这里换听是不是妥当呢？”来做牌把",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39888172",
+          "url": "https://www.bilibili.com/read/cv39888172"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39888172/q25.png"
+    },
+    {
+      "id": "q26",
+      "title": "Q26",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "8巡",
+        "seatWind": "東家"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2p",
+        "4s",
+        "8s",
+        "0s",
+        "7s"
+      ],
+      "answer": "2p",
+      "answerLine": "書中解析：2p 听牌【2p x 11, 4s x 6, 8s x 6 0s x 3, 7s x 3】打2p听369s 共11枚打4s听58s 共6枚要是摸切打掉而留下2p，虽说有【自摸跳符】【能用上dora 1p】，但不是非常早的巡目的话就优先三面听牌的，比如不知道什么时候才能胡的到的满贯，目前要拿下这5800是最重要的",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39888172",
+          "url": "https://www.bilibili.com/read/cv39888172"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39888172/q26.png"
+    },
+    {
+      "id": "q27",
+      "title": "Q27",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "8巡目",
+        "seatWind": "東家"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2p",
+        "0s",
+        "9s",
+        "6s",
+        "8s"
+      ],
+      "answer": "9s",
+      "answerLine": "書中解析：9s 听牌【2p x 7, 0s x 6, 9s x 6, 6s x 3, 8s x 3】打9s听58s 6枚打2p听47s 7枚四连形跟两面的进张数就差1枚，选择四连形打9s，有以下3点：自摸就跳符带着端牌待牌的58s的听牌很强自摸3p打8s就是3面听牌。自摸1p的话也有变则2面，而且待牌也强。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39888172",
+          "url": "https://www.bilibili.com/read/cv39888172"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39888172/q27.png"
+    },
+    {
+      "id": "q28",
+      "title": "Q28",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "8巡目",
+        "seatWind": "東家",
+        "event": "上家打出6m"
+      },
+      "prompt": "东1局 東家 8巡目 上家打出6m。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "57m吃6",
+        "0s",
+        "8s"
+      ],
+      "answer": "57m吃6",
+      "answerLine": "書中解析：57m吃6 听牌【0s x 7, 8s x 7】坎张吃打8s，能做成47m的两面听牌。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39888172",
+          "url": "https://www.bilibili.com/read/cv39888172"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39888172/q28.png"
+    },
+    {
+      "id": "q29",
+      "title": "Q29",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "8巡目",
+        "seatWind": "東家",
+        "event": "上家打出5m"
+      },
+      "prompt": "东1局 東家 8巡目 上家打出5m。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "05m碰打8",
+        "0s",
+        "8s"
+      ],
+      "answer": "05m碰打8",
+      "answerLine": "書中解析：05m碰打8 听牌【0s x 5, 8s x 5】自亲8巡因此【需要听牌】这是基本。问题在于吃还是碰，考虑到后续形状推荐还是碰。列出以下的例子，了解到里面的特征，希望实战中能用上。碰：58m听牌 共5枚① 瞬间待牌枚数多了2枚② 暴漏了红宝牌，期待别人下车③ 因为碰了5m，听58m很容易成为盲点吃：听5m 2p 共3 枚① 摸46m, 3p才有2面听牌的变化② 变化后的待牌可能会变成【感觉就是听这附近的】",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39888172",
+          "url": "https://www.bilibili.com/read/cv39888172"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39888172/q29.png"
+    },
+    {
+      "id": "q30",
+      "title": "Q30",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "5巡",
+        "seatWind": "東家",
+        "event": "上家打出4m"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "无视",
+        "其他"
+      ],
+      "answer": "无视",
+      "answerLine": "書中解析：无视 1向听自亲第5巡，要是鸣了之后会变成坎张听牌要是听牌为目的的话那吃就正解，但要以和牌为目的的话就很难说是正解了。6m, 47s, 69s吃就是变成两面听牌，所以这里就忍者不吃4m把",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39888172",
+          "url": "https://www.bilibili.com/read/cv39888172"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39888172/q30.png"
+    },
+    {
+      "id": "q31",
+      "title": "Q31",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8p",
+        "7m",
+        "8m",
+        "3p"
+      ],
+      "answer": "8p",
+      "answerLine": "書中解析：8p 1向听【8p x 20, 7m x 16, 8m x 16, 3p x 12】打8p就是完全一向听而且进张最多。这个构造下最终肯定是会形成两面听牌。【完全一向听】这个是个基本形状，要记好哦① 要最多的进张② 最后肯定是可以两面听牌③雀头后补有2组",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39948447",
+          "url": "https://www.bilibili.com/read/cv39948447"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39948447/q31.png"
+    },
+    {
+      "id": "q32",
+      "title": "Q32",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "6p",
+        "5p",
+        "7m",
+        "2p"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m  1向听【8m x 23, 6p x 20, 5p x 19, 7m x 16, 2p x 15】打8m进张最多。因为【固定三面听】【危险度优先】而打出5p的人也有，但比如【进张枚数差4枚】【自亲】【摸了0p也能听牌】这些理由，危险牌先切的价值就比较低了",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39948447",
+          "url": "https://www.bilibili.com/read/cv39948447"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39948447/q32.png"
+    },
+    {
+      "id": "q33",
+      "title": "Q33",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "8p",
+        "4p"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【8m x 19, 8p x 15, 4p x 12】打8m是进张最多的一打。344568p是个【两面坎张】的形状，也就是说有两面的进张以及坎张的进张可能。344568p这形状拆分成下面的话...25p的两面",
+      "solutionText": "坎7p 5p 7p的两坎",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39948447",
+          "url": "https://www.bilibili.com/read/cv39948447"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39948447/q33.png"
+    },
+    {
+      "id": "q34",
+      "title": "Q34",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "8p",
+        "5p"
+      ],
+      "answer": "8p",
+      "answerLine": "書中解析：8p 1向听【8m x 15, 8p x 15, 5p x 12】看到饼子的是【两面坎张】形状的人要注意。8m跟8p都是不太需要的牌，那还是切8p把。之后摸到69m就会变成下面的形状，有更广的1向听的变化",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39948447",
+          "url": "https://www.bilibili.com/read/cv39948447"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39948447/q34.png"
+    },
+    {
+      "id": "q35",
+      "title": "Q35",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6p",
+        "8m",
+        "3p",
+        "7m",
+        "5p"
+      ],
+      "answer": "6p",
+      "answerLine": "書中解析：6p 1向听【6p x 23, 8m x 22, 3p x 19, 7m x 16, 5p x 15】以下3点说明打6p有利① 手牌成了完全一向听有更多的进张（毕竟只用了1枚4p）② 69m的待牌，毕竟有端牌的听牌很强③ 摸到47s后无论怎么选择都很强听69m",
+      "solutionText": "听25p7m",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39948447",
+          "url": "https://www.bilibili.com/read/cv39948447"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39948447/q35.png"
+    },
+    {
+      "id": "q36",
+      "title": "Q36",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "5s",
+        "7m",
+        "6s"
+      ],
+      "answer": "5s",
+      "answerLine": "書中解析：5s 1向听【8m x 19, 5s x 19, 7m x 15, 6s x 15】打8m或者5s都是进入完全一向听也就是最大进张。dora 6s的对子固定打5s就是最大的期待值。要是后面摸到了4s，也能打掉1s去争取断么",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39948447",
+          "url": "https://www.bilibili.com/read/cv39948447"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39948447/q36.png"
+    },
+    {
+      "id": "q37",
+      "title": "Q37",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "5s",
+        "6s",
+        "6m"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【8m x 19, 5s x 15, 6s x 15, 6m x 11】打8m进入完全一向听。为了固定dora的6s对子而打掉5s的话，摸到47p的时候会形成要不双碰要不坎张的听牌（都是4枚）。打8m的话，摸到47p的时候，虽说要打dora立直，但多了个平胡，听牌枚数翻倍（8枚），综合力上来讲更有利。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39965637",
+          "url": "https://www.bilibili.com/read/cv39965637"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39965637/q37.png"
+    },
+    {
+      "id": "q38",
+      "title": "Q38",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "5s",
+        "7m",
+        "6s"
+      ],
+      "answer": "5s",
+      "answerLine": "書中解析：5s 1向听【8m x 16, 5s x 16, 7m x 12, 6s x 12】打8m或者5s就是进张数最多。推荐打5s固定6s对子。虽说现在形状不算太好，要是摸到了4s也可以进行一个食断，摸到了25p4p也多了两面进张，优秀的变化很多。还有，不想要坎7p而打掉8p就会退回两向听。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39948447",
+          "url": "https://www.bilibili.com/read/cv39948447"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39948447/q38.png"
+    },
+    {
+      "id": "q39",
+      "title": "Q39",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5m",
+        "8m"
+      ],
+      "answer": "5m",
+      "answerLine": "書中解析：5m 1向听【5m x 15, 8m x 15】5m跟8m都是不要的牌，要是把34556p跟56s这边考虑能做出个雀头的话就打5m把。考虑一下摸到dora 6s的时候如果打掉5m",
+      "solutionText": "如果打掉8m",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39948447",
+          "url": "https://www.bilibili.com/read/cv39948447"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39948447/q39.png"
+    },
+    {
+      "id": "q40",
+      "title": "Q40",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "5p",
+        "6p",
+        "6m",
+        "3p",
+        "5s"
+      ],
+      "answer": "7m",
+      "answerLine": "書中解析：7m 1向听【7m x 32, 5p x 16, 6p x 16, 6m x 15, 3p x 12, 5s x 12】打7m进张数最大期待值最大。虽说有可能会发展成单骑听牌，但要做成两面或者亚两面听牌的概率低于8成。形成单骑听牌也只有摸到47p的时候 大概22%（7 / 32）",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39948447",
+          "url": "https://www.bilibili.com/read/cv39948447"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39948447/q40.png"
+    },
+    {
+      "id": "q41",
+      "title": "Q41",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6m",
+        "3p",
+        "6p",
+        "8m",
+        "8p"
+      ],
+      "answer": "6p",
+      "answerLine": "書中解析：6p 1向听【6m x 12, 3p x 12, 6p x 12, 8m x 10, 8p x 10】带有6m, 6p, 6s三组雀头后补的一向听。雀头只需要1个就好，那就从6m还是6p拆掉一个。这里推荐打6p。这样组的手牌，进张最多，摸到25p4p也能做成两面听牌。特别是摸到2p就更有魅力了打6m的话，当饼子上有变化的时候，愚形听牌变的很浓厚",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39965637",
+          "url": "https://www.bilibili.com/read/cv39965637"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39965637/q41.png"
+    },
+    {
+      "id": "q42",
+      "title": "Q42",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "6p",
+        "3p",
+        "5p",
+        "6m"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【8m x 22, 6p x 19, 3p x 15, 5p x 15, 6m x 12】打8m就是最大进张。要是先摸到47s的话，就可以选择听47p还是25p6m的变则三面了",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv39965637",
+          "url": "https://www.bilibili.com/read/cv39965637"
+        }
+      ],
+      "questionImage": "assets/extracted_cv39965637/q42.png"
+    },
+    {
+      "id": "q43",
+      "title": "Q43",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6m",
+        "3p",
+        "6p",
+        "8m",
+        "8p"
+      ],
+      "answer": "8p",
+      "answerLine": "書中解析：8p 1向听【6m x 12, 3p x 12 6p x 12, 8m x 10, 8p x 10】想充分利用役牌的一副手牌。就无论最后摸到什么为了最终型听牌能听到中上就考虑8m还是8p了。在此基础上，这手要是摸到了25p4p 这3种的话就能做到两面听牌了，所以把弱侧的万子部分的follow牌留下而推荐打8p。要是摸到2p的话就是成了以下形状就比较容易理解了",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40029176",
+          "url": "https://www.bilibili.com/read/cv40029176"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40029176/q43.png"
+    },
+    {
+      "id": "q44",
+      "title": "Q44",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "6巡",
+        "seatWind": "東家",
+        "event": "上家打出中"
+      },
+      "prompt": "东1局 東家 6巡 上家打出中。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "碰中后打8m",
+        "6m",
+        "8m"
+      ],
+      "answer": "碰中后打8m",
+      "answerLine": "書中解析：碰中后打8m 听牌【6m x 4, 8m x 4】打8m后听6m6p 4枚打6m后听坎7m 4枚宝牌中那肯定要是碰的。以上的牌型那种都是【瞬间4枚】，但是【之后的两面变化】就有巨大的差别了。特别是【3面听牌】以及【吃完之后咋样】这些",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40029176",
+          "url": "https://www.bilibili.com/read/cv40029176"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40029176/q44.png"
+    },
+    {
+      "id": "q45",
+      "title": "Q45",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6m",
+        "8m",
+        "6p",
+        "5p",
+        "4p"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【6m x 20, 8m x 18, 6p x 15, 5p x 13, 4p x 10】肯定要碰役牌的情况，就是要有意识碰完之后的手牌形状就很重要。进张最大就是打6m,但碰完宝牌中之后就要听坎7m的愚形听牌。要是选择饼子的话就损掉了36p47p5p的进张，有很大的损失。这里就是打8m就是标准的一打，比起打6m就差2枚间的差距，要是碰到宝牌中后肯定是好形听牌，即便碰不到宝牌，最后听牌的形状也能听到宝牌上。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40029176",
+          "url": "https://www.bilibili.com/read/cv40029176"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40029176/q45.png"
+    },
+    {
+      "id": "q46",
+      "title": "Q46",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6m",
+        "8m",
+        "8p",
+        "6p"
+      ],
+      "answer": "8p",
+      "answerLine": "書中解析：8p 1向听【6m x 15, 8m x 13， 8p x 13, 6p x 12】",
+      "solutionText": "灵活应用役牌的手牌。为了最终型能听到中上就是打8m还是8p了。为了最终型容易变成变则3面听牌就打8p有利。打8p摸7m听36p中打8m摸7p听6m跟中",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40029176",
+          "url": "https://www.bilibili.com/read/cv40029176"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40029176/q46.png"
+    },
+    {
+      "id": "q47",
+      "title": "Q47",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3p",
+        "5p",
+        "6m",
+        "7m",
+        "4m"
+      ],
+      "answer": "6m",
+      "answerLine": "書中解析：6m 1向听【3p x 18, 5p x 16, 6m x 15, 7m x 13, 4m x 9】按照进张数的顺序就是3p 5p 6m，但目前比起重视进张数顺序更应该是最终型（两面），就推荐打6m。虽说利用【固定强的部分，把弱部分的follow牌留下】这理论来打牌，但【摸到6p或者7p有567三色】【摸3m发展成三面听】【索子延伸】等等，所以想把手牌加强的牌准备好。虽说平面上推荐打6m，实战上打5p也不坏。即便打5p直接的里面也就只有4p。最有效的场面就是一边维持万子的强部分，一边期待索子的延伸",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40029707",
+          "url": "https://www.bilibili.com/read/cv40029707"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40029707/q47.png"
+    },
+    {
+      "id": "q48",
+      "title": "Q48",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3p",
+        "6m",
+        "7m",
+        "4p",
+        "4m"
+      ],
+      "answer": "3p",
+      "answerLine": "書中解析：3p 1向听【3p x 22, 6m x 19, 7m x 17, 4p x 16, 4m x 13】利用456667m这个强形的基本形。打3p就是进张最大。听牌率，胡牌率，期待值，都是最大的指标。要是先切万子的话，会损掉36m或者58m的进张。万子的部分不碰才是正解。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40029707",
+          "url": "https://www.bilibili.com/read/cv40029707"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40029707/q48.png"
+    },
+    {
+      "id": "q49",
+      "title": "Q49",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "7s",
+        "4m",
+        "6m",
+        "5s",
+        "8s"
+      ],
+      "answer": "7s",
+      "answerLine": "書中解析：7s 1向听【7m x 22, 7s x 22, 4m x 18, 6m x 15, 5s x 15, 8s x 11】打7m或者7s都是完全一向听。那就先从【摸到25p后听哪边】来考虑比较好。重点是索子部分要是先摸到6s也就只有一杯口了（※索子要是听牌的话是69s）。摸到9s就断么跟一杯口都断了，为了断么确定的情况下推荐打7s。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40029707",
+          "url": "https://www.bilibili.com/read/cv40029707"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40029707/q49.png"
+    },
+    {
+      "id": "q50",
+      "title": "Q50",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "6s",
+        "5m",
+        "7m",
+        "4s",
+        "7s"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【8m x 22, 6s x 22, 5m x 18, 7m x 15, 4s x 15, 7s x 11】打8m或者6s就是完全一向听。同样道理先考虑【摸到了25p听哪边】比较好。断么确定，先摸5s有一杯口这些打8m有利。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40029707",
+          "url": "https://www.bilibili.com/read/cv40029707"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40029707/q50.png"
+    },
+    {
+      "id": "q51",
+      "title": "Q51",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "7s",
+        "4m",
+        "6m",
+        "5s",
+        "8s"
+      ],
+      "answer": "7s",
+      "answerLine": "書中解析：7s 1向听【7m x 22, 7s x 22, 4m x 18, 6m x 15, 5s x 15, 8s x 15】打7m或者7s是完全一向听。留下7s的话虽说有一杯口加断么的2翻提升的可能性，但摸到9s就断么一杯口都没了就很痛。那就要断么确定的1翻去打7s就是期待值最大的。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40029707",
+          "url": "https://www.bilibili.com/read/cv40029707"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40029707/q51.png"
+    },
+    {
+      "id": "q52",
+      "title": "Q52",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "7s",
+        "5m",
+        "7m",
+        "5s",
+        "8s"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【8m x 22, 7s x 22, 5m x 18, 7m x 15,5s x 15, 8s x 15】打8m或者7s是完全一向听。摸9m或者9s都会没了断么，摸6m或者6s都是断么确定。再加上，进张数大家都一样，那就为了一杯口打8m把。摸到4s跟7s交换变得手牌更广的这点别忘。（译者注：也就是打掉8m后手牌用4s交换另一个7s会变成如下）",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40029707",
+          "url": "https://www.bilibili.com/read/cv40029707"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40029707/q52.png"
+    },
+    {
+      "id": "q53",
+      "title": "Q53",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "1p",
+        "3p",
+        "9p",
+        "3s",
+        "4s",
+        "7s"
+      ],
+      "answer": "3p",
+      "answerLine": "書中解析：3p 1向听【1p x 19, 3p x 19, 9p x 15, 3s x 10, 4s x 10, 7s x 10】虽说形状上切1p不错，但索子部分要是摸到258s后先制立直的可能性很高。这里优先考虑最终型的听牌强度（19p双碰听牌），推荐打3p",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40098661",
+          "url": "https://www.bilibili.com/read/cv40098661"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40098661/q53.png"
+    },
+    {
+      "id": "q54",
+      "title": "Q54",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "1p",
+        "3p",
+        "8p",
+        "3s",
+        "4s",
+        "7s"
+      ],
+      "answer": "1p",
+      "answerLine": "書中解析：1p 1向听【1p x 19, 3p x 19, 8p x 15, 3s x 10, 4s x 10, 7s x 10】从1133p这里切掉1枚变成3张牌的搭子的话，是进张最大的1向听。看到了断么就切1p把",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40098661",
+          "url": "https://www.bilibili.com/read/cv40098661"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40098661/q54.png"
+    },
+    {
+      "id": "q55",
+      "title": "Q55",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2p",
+        "4p",
+        "6p",
+        "8p",
+        "3s",
+        "7s"
+      ],
+      "answer": "2p",
+      "answerLine": "書中解析：2p 1向听【2p x 23, 4p x 19, 6p x 19, 8p x 15, 3s x 8, 7s x 8】打2p：打4p：打2p的进张最大（23枚），44688p这个形状，自摸4578p就能形成1面子+雀头的强形。要是接受了246p的两坎就会跟最大进张差4枚（19枚）这点要注意。尽管使用了【2雀头很强】的【2雀头理论】，也会发现最后答案是打2p",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40098661",
+          "url": "https://www.bilibili.com/read/cv40098661"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40098661/q55.png"
+    },
+    {
+      "id": "q56",
+      "title": "Q56",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6p",
+        "4p",
+        "8p",
+        "3s",
+        "4s",
+        "7s"
+      ],
+      "answer": "6p",
+      "answerLine": "書中解析：6p 1向听【6p x 23, 4p x 19, 8p x 19, 3s x 14, 4s x 14, 7s x 14】何切的定打。【跳着的对子就切中间的】的形状44688p摸了4578p就能形成1面子+雀头的强形。熟记就行。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40098661",
+          "url": "https://www.bilibili.com/read/cv40098661"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40098661/q56.png"
+    },
+    {
+      "id": "q57",
+      "title": "Q57",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4p",
+        "8p",
+        "2p",
+        "6p",
+        "3s",
+        "7s"
+      ],
+      "answer": "8p",
+      "answerLine": "書中解析：8p 1向听【4p x 19, 8p x 19, 2p x 15, 6p x 15, 3s x 8, 7s x 8】打4p或者8p都是进张最大，门清的话打4p或者8p都有，但考虑到鸣牌可能的话打8p是有压倒性的优势。如果打4p要了两坎的话会变成以下的进张，就不能进行dora碰听了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40098930",
+          "url": "https://www.bilibili.com/read/cv40098930"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40098930/q57.png"
+    },
+    {
+      "id": "q58",
+      "title": "Q58",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2p",
+        "4p",
+        "8p",
+        "3s",
+        "4s",
+        "7s"
+      ],
+      "answer": "4p",
+      "answerLine": "書中解析：4p 1向听【2p x 19, 4p x 19, 8p x 15, 3s x 10, 4s x 10, 7s x 10】打2p或者4p都是进张最大。因为dora是2p,切4p期待值最大。自摸3p虽然要打掉dora,但是断么平胡dora1的原因，打点十足。【绝对要用上2枚dora】这个理由而切掉8p的话就会损4枚（比最大进张）。比起摸3p要打dora，进张数少4枚才是最差的选择。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40098930",
+          "url": "https://www.bilibili.com/read/cv40098930"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40098930/q58.png"
+    },
+    {
+      "id": "q59",
+      "title": "Q59",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3s",
+        "6s"
+      ],
+      "answer": "3s",
+      "answerLine": "書中解析：3s 听牌【3s x 3, 6s x 3】断么，一杯口，dora2的听牌。因为是打点十足（亲家满贯的12000点）的愚形听牌（3枚），推荐默听。切3s还是6s虽然没有很大的区别，要是成了以下的形状的话变成断么平和三色的可能性也不是不可能，所以冷静的先切3s把",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40098930",
+          "url": "https://www.bilibili.com/read/cv40098930"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40098930/q59.png"
+    },
+    {
+      "id": "q60",
+      "title": "Q60",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "切2p立直",
+        "2p",
+        "4p",
+        "5p"
+      ],
+      "answer": "切2p立直",
+      "answerLine": "書中解析：切2p立直 听牌【2p x 7, 4p x 4,5p x 3】打2p听36p共7枚打4p听28p共4枚打5p听坎3p 共3枚相比于默听选择打出打点十足的4p或者5p,切dora 2p立直能够取得打点跟听牌上的平衡，是更强的选择。立直断么平和dora1的7枚听牌满贯确定。自摸，一发，里宝中了的话可能会变成跳满。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40098930",
+          "url": "https://www.bilibili.com/read/cv40098930"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40098930/q60.png"
+    },
+    {
+      "id": "q61",
+      "title": "Q61",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4p 立直",
+        "4p"
+      ],
+      "answer": "4p 立直",
+      "answerLine": "書中解析：4p 立直 听牌【4p x 3】坎4s 共3枚一杯口，dora 1的听牌。默听3900（40符2翻），立直后变7700(40符3翻）即便打1s拒听，基本上到最后也是需要这个4s，虽说这题的设定是亲家，子家的话基本上也是即立的形状。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40098930",
+          "url": "https://www.bilibili.com/read/cv40098930"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40098930/q61.png"
+    },
+    {
+      "id": "q62",
+      "title": "Q62",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5s",
+        "2p",
+        "4p",
+        "1s",
+        "3s",
+        "7p"
+      ],
+      "answer": "1s",
+      "answerLine": "書中解析：1s 1向听【5s x 14, 2p x 11, 4p x 11, 1s x 11, 3s x 10, 7p x 9】看到断么打1s期待值最大，况且也能食断也很优秀。实际上进张最多的是打5s这个有趣的形状。可以说是典型的“进张数最大是个装饰”的案例。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40163020",
+          "url": "https://www.bilibili.com/read/cv40163020"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40163020/q62.png"
+    },
+    {
+      "id": "q63",
+      "title": "Q63",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "6巡",
+        "seatWind": "東家"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2p",
+        "4p",
+        "3s",
+        "5s",
+        "8p"
+      ],
+      "answer": "3s",
+      "answerLine": "書中解析：3s 1向听【2p x 11, 4p x 11, 3s x 10, 5s x 10, 8p x 7】推荐从碰听时能构造强形上来考虑。以下就是碰了8p时候的形状比较。碰完之后（没变化）的瞬间的形状，打点，枚数一起来考虑打3s（5s）有利。打3s：听24p共4枚打4p：坎4s 共3枚打3s还是5s，优先打出3索是为了在自摸到5s或6s时能够进行搭子选择",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40163020",
+          "url": "https://www.bilibili.com/read/cv40163020"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40163020/q63.png"
+    },
+    {
+      "id": "q64",
+      "title": "Q64",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6m",
+        "4p",
+        "1s",
+        "4s"
+      ],
+      "answer": "1s",
+      "answerLine": "書中解析：1s 1向听【6m x 9, 4p x 9, 1s x 9, 4s x 9】面子手的话打5m固定两面看起来不错，但由于目前是七对子一向听，所以对子不容易拆。基于这种情况，接下来的自摸就争取往面子手发展，因此此时打出1s，把牌型向内靠拢的打法会更加灵活。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40163020",
+          "url": "https://www.bilibili.com/read/cv40163020"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40163020/q64.png"
+    },
+    {
+      "id": "q65",
+      "title": "Q65",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "9m",
+        "4p",
+        "8p",
+        "3m",
+        "6p",
+        "4s"
+      ],
+      "answer": "9m",
+      "answerLine": "書中解析：9m 2向听【9m x 28, 4p x 28, 8p x 28, 3m x 22, 6p x 22, 4s x 22】6 block的3雀头形状。44688p的形状容易形成1雀头加1面子，也就是说其他的雀头后补留下的话意义不大。打9m, 4p, 8p都是瞬间拥有最大的进张数，但打9m的话会形成以下的牌型会有更广的一向听的可能。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40164159",
+          "url": "https://www.bilibili.com/read/cv40164159"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40164159/q65.png"
+    },
+    {
+      "id": "q66",
+      "title": "Q66",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4p",
+        "8p",
+        "9m",
+        "6p",
+        "2m",
+        "3m"
+      ],
+      "answer": "4p",
+      "answerLine": "書中解析：4p 1向听【4p x 16, 8p x 16, 9m x 12, 6p x 12, 2m x 8, 3m x 8】9m这个对子肯定是变不到两面的，那么就让牌型变得容易平胡把。打4p变成468p的两坎形状是最容易出现平胡的形状。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40164159",
+          "url": "https://www.bilibili.com/read/cv40164159"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40164159/q66.png"
+    },
+    {
+      "id": "q67",
+      "title": "Q67",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2p",
+        "4p",
+        "8p",
+        "3m",
+        "6p",
+        "9m"
+      ],
+      "answer": "4p",
+      "answerLine": "書中解析：4p 2向听【2p x 28, 4p x 28, 8p x 28, 3m x 24, 6p x 24, 9m x 20】不要2个雀头候补的例外形。要是留着2个雀头继续的话，很容易会【无役无dora听牌】。雀头候补的9m的没法期待出变化，这里就往最容易形成平胡去做牌更好。把牌拆分成以上的block的话，就很容易明白饼子部分只要1个block就好。进张数上打2p 4p 8p都是一样的，但容易形成平胡的话，还是打掉可能会变成暗刻的4p。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40164159",
+          "url": "https://www.bilibili.com/read/cv40164159"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40164159/q67.png"
+    },
+    {
+      "id": "q68",
+      "title": "Q68",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2p",
+        "8p",
+        "8m",
+        "4s",
+        "4p",
+        "6p"
+      ],
+      "answer": "4s",
+      "answerLine": "書中解析：4s 2向听【2p x 28, 8p x 28m 4s x 28, 4p x 24,6p x 24, 9m x 16】打4s 2p 8p都是一样的进张数。为了容易形成平胡饼子部分就这么留下把。此外，2468p这个形状也有人用“西欧”这个谐音来形容。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40164159",
+          "url": "https://www.bilibili.com/read/cv40164159"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40164159/q68.png"
+    },
+    {
+      "id": "q69",
+      "title": "Q69",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7p",
+        "9p",
+        "1s",
+        "3s",
+        "5m",
+        "6m"
+      ],
+      "answer": "1s",
+      "answerLine": "書中解析：1s 1向听【7p x 12, 9p x 12, 1s x 12, 3s x 12, 5m x 8, 6m x 8】6 block的搭子超载。79p跟13s的比较，摸到6p的时候能转换成3面所以留下79p有利。至于打1s还是3s先，考虑到摸4s所以打1s",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40232166",
+          "url": "https://www.bilibili.com/read/cv40232166"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40232166/q69.png"
+    },
+    {
+      "id": "q70",
+      "title": "Q70",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2p",
+        "0p",
+        "9p",
+        "1s",
+        "3s",
+        "7s"
+      ],
+      "answer": "1s",
+      "answerLine": "書中解析：1s 2向听【2p x 24, 0p x 24, 9p x 24, 1s x 24, 3s x 24, 7s x 20】6 block的搭子超载。079p是两坎，所以13s的单独坎张就最弱。至于打1s还是3s先，考虑到摸4s所以打1s",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40232166",
+          "url": "https://www.bilibili.com/read/cv40232166"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40232166/q70.png"
+    },
+    {
+      "id": "q71",
+      "title": "Q71",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7p",
+        "9p",
+        "4m",
+        "5m",
+        "2s",
+        "3s"
+      ],
+      "answer": "7p",
+      "answerLine": "書中解析：7p 1向听【7p x 16, 9p x 16, 4m x 11, 5m x 11, 2s x 11, 3s x 11】6 block的搭子超载。9p是dora，但这里最弱的搭子就是唯一的愚形搭子的79p，这里拆掉。至于切7p还是9p，没有很大的危险度的区别的话，可以先打7p去保留宝牌成对。至于打出宝牌，等摸到有效牌或者安全牌再处理也来得及。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40232166",
+          "url": "https://www.bilibili.com/read/cv40232166"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40232166/q71.png"
+    },
+    {
+      "id": "q72",
+      "title": "Q72",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7p",
+        "9p",
+        "4m",
+        "5m",
+        "2s",
+        "3s"
+      ],
+      "answer": "9p",
+      "answerLine": "書中解析：9p 1向听【7p x 16, 9p x 16, 4m x 12, 5m x 12, 2s x 12, 3s x 12】6 block的搭子超载。最弱的搭子还是79p的坎张所以拆掉，摸到6p的时候可以变成3面就先从9p开始",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40232166",
+          "url": "https://www.bilibili.com/read/cv40232166"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40232166/q72.png"
+    },
+    {
+      "id": "q73",
+      "title": "Q73",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3s",
+        "5s",
+        "8s",
+        "4m",
+        "7p",
+        "8p"
+      ],
+      "answer": "8s",
+      "answerLine": "書中解析：8s 1向听【3s 16, 5s x 16, 8s x 16, 4m x 12, 7p x 12, 8p x 12】6 block的搭子超载按照上面的拆分，最弱的就是35s坎张，但摸到4s能看到345的三色所以推荐打8s实战的话就要根据危险度来决定打牌顺序啦。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40232166",
+          "url": "https://www.bilibili.com/read/cv40232166"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40232166/q73.png"
+    },
+    {
+      "id": "q74",
+      "title": "Q74",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "5s",
+        "8s",
+        "4m",
+        "7p",
+        "8p"
+      ],
+      "answer": "8s",
+      "answerLine": "書中解析：8s 1向听【8m x 16, 5s x 16, 8s x 16, 4m x 12, 7p x 12, 8p x 12】6 block的搭子超载。想要平胡的话就得想拆哪个雀头比较好，但先打掉1张8s把手牌变成5678s的四连形是个妙手。这样做牌的话，要是下一巡摸到4s就成做出3面张了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40232166",
+          "url": "https://www.bilibili.com/read/cv40232166"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40232166/q74.png"
+    },
+    {
+      "id": "q75",
+      "title": "Q75",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "5s",
+        "8s",
+        "4m",
+        "7p",
+        "8p"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【8m x 16, 5s x 16, 8s x 16, 4m x 12, 7p x 12, 8p x 12】",
+      "solutionText": "6 block的搭子超载。 瞄准平胡的话就要拆掉一组雀头，但索子部分55678s就这样留下的话，即便摸到8s dora也能变成个dora雀头55678s -> 56788s ( dora 8s）※ 也有人为了兼顾摸dora跟三色两方面而打出5s，但后面摸到8p或者安全牌的时候，就要确认一下切什么了打5s -> 自摸8p",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40232166",
+          "url": "https://www.bilibili.com/read/cv40232166"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40232166/q75.png"
+    },
+    {
+      "id": "q76",
+      "title": "Q76",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3s",
+        "5s",
+        "8s",
+        "4m",
+        "7p",
+        "8p"
+      ],
+      "answer": "3s",
+      "answerLine": "書中解析：3s 1向听【3s x 16, 5s x 16, 8s x 16, 4m x 12, 7p x 12, 8p x 12】6 block的搭子超载。愚形blockde 35s要拆掉，考虑到dora 8s的纵向摸入， 就先从3s开始（译者注：纵向摸入指的是摸的牌成对子或者刻子）",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40232166",
+          "url": "https://www.bilibili.com/read/cv40232166"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40232166/q76.png"
+    },
+    {
+      "id": "q77",
+      "title": "Q77",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "4p",
+        "7p",
+        "4s"
+      ],
+      "answer": "7m",
+      "answerLine": "書中解析：7m 1向听【4p x 12, 7p x 12, 4s x 12】4567p的4连形，3445s的中膨形，有2个强形。虽然说回退向到2向听，但看到断平三色，把79m拆了是妙手。79m的切牌顺序，重视危险度的话推荐从内侧的7m开始。打9m的话就是90分，因为手牌都是好形，能够灵活运用到7m的情况较少。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40232203",
+          "url": "https://www.bilibili.com/read/cv40232203"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40232203/q77.png"
+    },
+    {
+      "id": "q78",
+      "title": "Q78",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4p",
+        "7p",
+        "4m",
+        "9m",
+        "7m",
+        "8s"
+      ],
+      "answer": "9m",
+      "answerLine": "書中解析：9m 1向听【4p x 23, 7p x 23, 4m x 20, 9m x 19, 7m x 17, 8s x 12】",
+      "solutionText": "打4p跟打7p都是进张最大，但摸了3m或者3p就能看到断平三色，推荐拆掉79m的坎张。79m的切牌顺序，为了不错过断么听牌就先从9m开始。自摸7m是两面听牌。要注意在自摸4m后是坎6m听牌这点不要错过。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40232203",
+          "url": "https://www.bilibili.com/read/cv40232203"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40232203/q78.png"
+    },
+    {
+      "id": "q79",
+      "title": "Q79",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2m",
+        "4m",
+        "3p",
+        "7p",
+        "2s",
+        "4s"
+      ],
+      "answer": "2m",
+      "answerLine": "書中解析：2m 1向听【2m x 8, 4m  x 8, 3p x 8, 7p x 8, 2s x 8, 4s x 8】按照上面那样拆分的话，就是6组搭子的搭子超载因为dora是对子所以基本上要食断。碰上dora后就是满贯确，没啥不满的，但也留下其他的满贯听牌的可能性。要是副露前提的话，那就为了断么确把所有的索子留下就比较好做。即便摸到不能听牌的牌但也有不错的自摸牌。自摸5s的话当然就是两面变化，自摸467s的话会让手牌更有厚度。当然也有了吃红5s的准备。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40307604",
+          "url": "https://www.bilibili.com/read/cv40307604"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40307604/q79.png"
+    },
+    {
+      "id": "q80",
+      "title": "Q80",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2m",
+        "4m",
+        "3p",
+        "7p",
+        "2s",
+        "4s"
+      ],
+      "answer": "2s",
+      "answerLine": "書中解析：2s 1向听【2m x 8, 4m x 8, 3p x 8 , 7p x 8, 2s x 8, 4s x 8】6 block，搭子超载，那就把最弱的搭子拆掉。3p对子是dora所以不能拆，7p对子的话有两种的两面变化，所以留下这么优秀的搭子。留下的24m跟24s，同样都是坎张搭子比较，自摸5m的时候是3面听，因此24m搭子比较强。所以切掉最弱的24s搭子，因为有红5s的所以有2s开始。摸到6s的话就往断么发展。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40307604",
+          "url": "https://www.bilibili.com/read/cv40307604"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40307604/q80.png"
+    },
+    {
+      "id": "q81",
+      "title": "Q81",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6p",
+        "6s",
+        "1p",
+        "7p",
+        "9p",
+        "1z"
+      ],
+      "answer": "1p",
+      "answerLine": "書中解析：1p 2向听【6p x 35, 6s x 31, 1p x 32, 7p x 22, 9p x 22, 1z x 22】6 block，搭子超载，那就把最弱的1p对子搭子拆掉变成5 block是推荐的打法。要是按着6 block去切7p的话，就会错过摸8p后变成下述的强形。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40307654",
+          "url": "https://www.bilibili.com/read/cv40307654"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40307654/q81.png"
+    },
+    {
+      "id": "q82",
+      "title": "Q82",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6m",
+        "1p",
+        "2p",
+        "6p",
+        "0s",
+        "6s"
+      ],
+      "answer": "2p",
+      "answerLine": "書中解析：2p 2向听【6m x 15, 1p x 15, 2p x 15, 6p x 15, 0s x 15, 6s x 15】因为6 block，所以推荐把最弱的12p边张搭子拆掉变成5 block。按照6 block继续的打法打7p的话，摸到8p的时候不仅形状微妙，而且也损失掉了七对子的可能性",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40307654",
+          "url": "https://www.bilibili.com/read/cv40307654"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40307654/q82.png"
+    },
+    {
+      "id": "q83",
+      "title": "Q83",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3s",
+        "1s",
+        "5s",
+        "2m",
+        "3m",
+        "6m"
+      ],
+      "answer": "3s",
+      "answerLine": "書中解析：3s 1 向听【3s x 19, 1s x 18, 5s x 18, 2m x 8, 3m x 8, 6m x 8】打3s就是进张最大，也是容易做成平和的一手。要是先进了万子变成索子听牌的话，3s -> 5s这个切牌顺序听坎2s也不算很坏打1s或者5s保留两组雀头的打法虽然说比较灵活，但是何有可能在没变化下完成万子部分导致愚形的索子待牌的听牌。没错，大多数情况下，【慢慢等变化是来不及的】。特别打5s的话就无法对应摸到6s的情况。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40307654",
+          "url": "https://www.bilibili.com/read/cv40375909"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40375909/q83.png"
+    },
+    {
+      "id": "q84",
+      "title": "Q84",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8p",
+        "1s",
+        "5s"
+      ],
+      "answer": "8p",
+      "answerLine": "書中解析：8p 1向听【8p x 25, 1s x 20, 5s x 20】进张最大，至少也能保证两面听牌。万子部分能组成两组面子后的听牌，那就是可以选听12s还是45s了",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40375909",
+          "url": "https://www.bilibili.com/read/cv40375909"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40375909/q84.png"
+    },
+    {
+      "id": "q85",
+      "title": "Q85",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "1s",
+        "5s"
+      ],
+      "answer": "7m",
+      "answerLine": "書中解析：7m 1向听【7m x 16, 1s x 12, 5s x 12】进入一向听的话就是打7m, 1s, 5s这3种。这个形状的话，那就直线打7m，要最大进张并且两面两坎的1向听。要是坎张进张后就是平和，要是两面部分先完成就成了无役的坎张听牌，没想到是个天堂还是地狱的形状，要是能接受这个形状就打7m拿最大的期待值。另外，即便没有变化，成为平胡的概率是二分之一。",
+      "solutionText": "（※实际上摸6s也有变化）",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40376011",
+          "url": "https://www.bilibili.com/read/cv40376011"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40376011/q85.png"
+    },
+    {
+      "id": "q86",
+      "title": "Q86",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5s",
+        "7m",
+        "8m",
+        "3s",
+        "7p",
+        "1s"
+      ],
+      "answer": "5s",
+      "answerLine": "書中解析：5s 2向听【5s x 32, 7m x 28, 8m x 28, 3s x 28, 7p x 24, 1s x 24】这是一个确保有5 block的强形。按照留两组雀头的打法打5s就是进张最大，期待值最大。打8m的话就会相对损4枚。自亲的dora1【立直也有3900起】确，因此没理由放弃那4张有效牌。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40376011",
+          "url": "https://www.bilibili.com/read/cv40376011"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40376011/q86.png"
+    },
+    {
+      "id": "q87",
+      "title": "Q87",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "5s"
+      ],
+      "answer": "5s",
+      "answerLine": "書中解析：5s 1向听【7m x 12, 5s x 12】要是因为79p是愚形而打掉，就会退回两向听了。实际上打7m或者5s以外的牌就不会是1向听的牌的形状了。打5s后摸8p后就会直线听牌这点不会逃掉，加上摸79p的话纵向发展的话就是完全1向听了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40376011",
+          "url": "https://www.bilibili.com/read/cv40376011"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40376011/q87.png"
+    },
+    {
+      "id": "q88",
+      "title": "Q88",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5s",
+        "1p",
+        "7m",
+        "8m",
+        "2p"
+      ],
+      "answer": "1p",
+      "answerLine": "書中解析：1p 2向听【5s x 28, 1p x 24, 7m x 20, 8m x 20, 2p x 16】虽然说搭子齐了，但是有愚形的2向听。要是把79p的愚形拆了就会退回3向听。现在还是2向听，因此枚数差就不是那么重要了，应该保留强形来推进手牌。这里就推荐固定dora对子打1p。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40376011",
+          "url": "https://www.bilibili.com/read/cv40376011"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40376011/q88.png"
+    },
+    {
+      "id": "q89",
+      "title": "Q89",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5s",
+        "7p",
+        "9p",
+        "7m",
+        "8m",
+        "3s"
+      ],
+      "answer": "7p",
+      "answerLine": "書中解析：7p 1向听【5s x 24, 7p x 17, 9p x 17, 7m x 13, 8m x 13, 3s x 12】想要的是雀头，所以雀头的第一候补就是索子。留下3455s的话，那就自然地会切掉79p了。7p跟9p，要是重视安全度的话推荐先从内侧的7p开始。",
+      "solutionText": "也有为了断么或者0p而先打9p，但7p摸成对子后，也会在完全断么前立直，再且摸进4p或者0p最后也是要打7p，因此切9p后留下7p的价值不大。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40376011",
+          "url": "https://www.bilibili.com/read/cv40376011"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40376011/q89.png"
+    },
+    {
+      "id": "q90",
+      "title": "Q90",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5s",
+        "5p",
+        "7p",
+        "7m",
+        "8m",
+        "3s"
+      ],
+      "answer": "7p",
+      "answerLine": "書中解析：7p 1向听【5s x 24, 5p x 17, 7p x 17, 7m x 13, 8m x 13, 3s x 12】要的是雀头，因此想把所有的索子留下。考虑到5p的纵向发展就打7p就是期待值最大。虽说后面可能会打出0p去听牌，但打点上已经足够了，就没必要执着于打0p这种东西了。而且，要是好运的话还有345的三色呢",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40376011",
+          "url": "https://www.bilibili.com/read/cv40376011"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40376011/q90.png"
+    },
+    {
+      "id": "q91",
+      "title": "Q91",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5p",
+        "8p",
+        "7m",
+        "1p",
+        "2s",
+        "4m"
+      ],
+      "answer": "1p",
+      "answerLine": "書中解析：1p 2向听【5p x 22, 8p x 22, 7m x 20, 1p x 20, 2s x 20, 4m x 14】能看到567跟678两组三色的6 block搭子超载的形状。打5p或者8p，都是最大进张并且维持了6 block，但这里推荐把断么用不上的1p对子打掉变成5 block。这个情况下即便是567还是678的三色都能看的同时，要是摸了4p是个三面听的形状。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40438841",
+          "url": "https://www.bilibili.com/read/cv40438841"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40438841/q91.png"
+    },
+    {
+      "id": "q92",
+      "title": "Q92",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5p",
+        "8p",
+        "7m",
+        "1p",
+        "2s",
+        "7s"
+      ],
+      "answer": "1p",
+      "answerLine": "書中解析：1p 2向听【5p x 17, 8p x 17, 7m x 15, 1p x 15, 2s x 15, 7s x 14】可能567三色的6 block搭子超载形状。打点上因为有优秀的07s的block,但是是个愚形，就要以“副露前提”来继续。这样的话最弱的就是断么用不上的1p对子了，首先先把这个拆掉。打掉1p后，就能充分的观察到“从4连形那边的变化”。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40438841",
+          "url": "https://www.bilibili.com/read/cv40438841"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40438841/q92.png"
+    },
+    {
+      "id": "q93",
+      "title": "Q93",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3m",
+        "7m",
+        "3p",
+        "3s",
+        "2s"
+      ],
+      "answer": "3p",
+      "answerLine": "書中解析：3p 2向听【3m x 59, 7m x 55, 3p x 55, 3s x 55 , 2s x 32】3m 7m 3p的三选一。3m需要保留，因为如果摸入14s，导致2s不再是雀头候补时，这张牌的形状还有进一步发展的可能性。留下7m的话，摸到5m的时候形成357m的两坎，而且还能看到678三色。留下3p的话，自摸4p的时候虽说能形成两面，但5p会成了重复进张所以价值最低。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40439104",
+          "url": "https://www.bilibili.com/read/cv40439104"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40439104/q93.png"
+    },
+    {
+      "id": "q94",
+      "title": "Q94",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2s",
+        "7m",
+        "3m"
+      ],
+      "answer": "2s",
+      "answerLine": "書中解析：2s 1向听【2s x 21, 7m x 20, 3m x 13】想要的是雀头。能形成变则三面的3m优先留下。7m跟2s的选择，因为自己用掉了2张2s，很大几率要单骑到7m上。并且要是摸到了8m就能形成三色可能的牌型。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40439104",
+          "url": "https://www.bilibili.com/read/cv40439104"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40439104/q94.png"
+    },
+    {
+      "id": "q95",
+      "title": "Q95",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2s",
+        "3m",
+        "7m",
+        "3s",
+        "7p"
+      ],
+      "answer": "3m",
+      "answerLine": "書中解析：3m 2向听【2s x 59, 3m x 57, 7m x 53, 3s x 53, 7p x 49】因为搭子不足，那就3m 7m 7p选一个。雀头候补足够了，要的是两面的搭子。暗刻旁边的很难做成两面搭子因此推荐打掉3m。留下3m的话自摸1m是最差的，自摸4m的形状比自摸6m的形状少3枚进张自摸4m的时候17枚自摸6m的时候20枚",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40439104",
+          "url": "https://www.bilibili.com/read/cv40439104"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40439104/q95.png"
+    },
+    {
+      "id": "q96",
+      "title": "Q96",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3m",
+        "7m"
+      ],
+      "answer": "3m",
+      "answerLine": "書中解析：3m 1向听【3m x 12, 7m x 12】不仅搭子不足而且还有令人不满的12p这个边张搭子。现在要的话是【能够换掉边张搭子的两面搭子】，因此留下一些容易做成两面搭子的牌更好。比起留下3m，留下7m更容易做成两面。要是一瞬间把12p的边张搭子拆了就会退回2向听了。还把摸到了3p是个直线听牌这个点错过了，也做的太过了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40439104",
+          "url": "https://www.bilibili.com/read/cv40439104"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40439104/q96.png"
+    },
+    {
+      "id": "q97",
+      "title": "Q97",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "4p",
+        "1s",
+        "4s",
+        "8m"
+      ],
+      "answer": "4p",
+      "answerLine": "書中解析：4p 1向听【7m x 41, 4p x 37, 1s x 36, 4s x 36, 8m x 17】打4p，听牌率，胡牌率，期待值，全部最大。这788m的形状，既能做出两面也能做出雀头的便利形状。留下1234这个4连形的形状，能通过更多的摸牌形成两面听牌。记住【因为有4连形跟其他搭子所以留下788m】就好。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40523839",
+          "url": "https://www.bilibili.com/read/cv40523839"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40523839/q97.png"
+    },
+    {
+      "id": "q98",
+      "title": "Q98",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "0p",
+        "1s",
+        "4s",
+        "8m"
+      ],
+      "answer": "1s",
+      "answerLine": "書中解析：1s 1向听【7m x 39, 0p x 37, 1s x 34, 4s x 34, 8m x 17】双dora 0p的浮牌。那就围绕着这个0p横向或者纵向发展来做牌吧。然后留下788m这个形状也不错。摸上4p或者6p横向发展的话就用8m做雀头，摸5p的话就纵向发展成为雀头然后形成69m的两面听牌。记住【因为有绝对不能打的浮牌（比如赤宝）跟其他搭子所以留下788m】就好。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40523839",
+          "url": "https://www.bilibili.com/read/cv40523839"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40523839/q98.png"
+    },
+    {
+      "id": "q99",
+      "title": "Q99",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "9m",
+        "4p",
+        "1s",
+        "4s",
+        "8m"
+      ],
+      "answer": "9m",
+      "answerLine": "書中解析：9m 1向听【9m x 41, 4p x 29, 1s x 28, 4s x 28, 8m x 13】固定唯一雀头的8m对子，瞄准4p跟4s的靠张把。饼子上2p-6p， 索子就1s-4s摸上的话都能听牌。（就是，大多数都是愚形）",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40523839",
+          "url": "https://www.bilibili.com/read/cv40523839"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40523839/q99.png"
+    },
+    {
+      "id": "q100",
+      "title": "Q100",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "9m",
+        "6p",
+        "9p",
+        "1s",
+        "4s",
+        "8m"
+      ],
+      "answer": "9m",
+      "answerLine": "書中解析：9m 1向听【9m x 41, 6p x 29, 9p x 29, 1s x 28, 4s x 28, 8m x 16】固定8m对子做雀头，考虑摸6p跟4s的靠张牌。留下889m摸到7m的话，就能像以下这牌型听到带dora的69p，但并一定能用到9p胡牌。（译者注：这情况下只有自摸，荣和他家无役）打1s → 摸7m",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40523839",
+          "url": "https://www.bilibili.com/read/cv40523839"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40523839/q100.png"
+    },
+    {
+      "id": "q101",
+      "title": "Q101",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "3s",
+        "4p",
+        "8m"
+      ],
+      "answer": "7m",
+      "answerLine": "書中解析：7m 1向听【7m x 37, 3s x 36, 4p x 33, 8m x 13】2334s的中膨形，虽然是容易形成两面搭子，但很难做成雀头的形状。这个中膨形要做雀头的话也只有中间的2枚3s。那么不期待用中膨形来做雀头的话，就固定8m雀头，去找4p靠张就比较有利。记住【有中膨形的话那跟雀头固定搭配不错】就好。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40523839",
+          "url": "https://www.bilibili.com/read/cv40523839"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40523839/q101.png"
+    },
+    {
+      "id": "q102",
+      "title": "Q102",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "4p",
+        "3s",
+        "8m"
+      ],
+      "answer": "4p",
+      "answerLine": "書中解析：4p 1向听【7m x 41, 4p x 37, 3s x 36, 8m x 17】788m也是做出两面或者雀头的形状。围绕这个形状做下去的话，摸到多数的索子牌都能形成两面听牌。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40523839",
+          "url": "https://www.bilibili.com/read/cv40523839"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40523839/q102.png"
+    },
+    {
+      "id": "q103",
+      "title": "Q103",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "3m",
+        "3s",
+        "8m"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【7m x 38, 3m x 37, 3s x 29, 8m x 25】2223m的形状，容易做出1组两面跟雀头的形状，最终形是14m3m的3面听的强形。那就配合这个强形来找其他的搭子把。雀头上能保证从2223m出来，其他的（对子）搭子用途价值比较低。那这样的话，就打8m去固定78m的两面就比较好。这样做下去的话，最终形肯定是个两面以上的听牌。打3m, 7m, 3s就单纯进张数最多，但愚形听牌率也高平胡也难。因此，胡率跟打点来说综合能力是个劣势。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40523951",
+          "url": "https://www.bilibili.com/read/cv40523951"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40523951/q103.png"
+    },
+    {
+      "id": "q104",
+      "title": "Q104",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "3s",
+        "5p",
+        "8p",
+        "8m"
+      ],
+      "answer": "3s",
+      "answerLine": "書中解析：3s 1向听【7m x 46, 3s x 41, 5p x 37, 8p x 37, 8m x 20】788m是能成两面也能成雀头的形状。5678p的4连形跟3340s的亚两面，留下4连形就容易形成两面听牌。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40523951",
+          "url": "https://www.bilibili.com/read/cv40523951"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40523951/q104.png"
+    },
+    {
+      "id": "q105",
+      "title": "Q105",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "3p",
+        "6p",
+        "3s",
+        "6s",
+        "8m"
+      ],
+      "answer": "7m",
+      "answerLine": "書中解析：7m 1向听【7m x 58, 3p x 45, 6p x 45, 3s x 45, 6s x 45, 8m x 20】拿到这手牌后，发现断么是最容易达成的就是个关键点。那就拒绝摸9m会破坏断么的7m就是期待值最大。4连形有4种的两面听牌强形。虽说有可能会有双碰听牌，但这次的双碰听牌也至少确保了断么听牌。4连形有很多的进张，既能转换成变强的3面听的同时，也有可能转换到变弱的坎张听牌或者双碰听牌。愚形听牌的话，就要一边思考怎么应对（比如是否摸切），一边推进手牌。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40523951",
+          "url": "https://www.bilibili.com/read/cv40523951"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40523951/q105.png"
+    },
+    {
+      "id": "q106",
+      "title": "Q106",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6m",
+        "3p",
+        "6p",
+        "3s",
+        "6s",
+        "7m"
+      ],
+      "answer": "3s",
+      "answerLine": "書中解析：3s 1向听【6m x 58, 3p x 45, 6p x 45, 3s x 45, 6s x 45, 7m x 20】能看到三色是个关键点。摸4m或者5m都有456三色，不仅仅是好形率，打点也提升了，因此留下677m的形状留下就价值较高。",
+      "solutionText": "打3p还是3s，在对应还没看到的赤宝上会有细微的差别。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40523951",
+          "url": "https://www.bilibili.com/read/cv40523951"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40523951/q106.png"
+    },
+    {
+      "id": "q107",
+      "title": "Q107",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "5p",
+        "6s",
+        "8m"
+      ],
+      "answer": "5p",
+      "answerLine": "書中解析：5p 1向听【7m x 39, 5p x 36, 6s x 35, 8m x 14】打7m虽然进张最多，但相比进张牌数的比较，愚形听牌可能性太高，因此不予采用。打5p还是6s，比较一下靠张就知道比较容易理解了。打5p → 摸7s ： 听58s靠近端牌挺强。打6s → 摸6p ：听47p在中张上，少了1枚。然后，对应里目的话也有区别。打5p的话摸到6p虽然不能听牌，但变化到以下的强形。后续，摸到dora 9p听牌的话就没啥抱怨的，摸到万子部分听牌了也是可以立直听带dora的两面单骑",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40577147",
+          "url": "https://www.bilibili.com/read/cv40577147"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40577147/q107.png"
+    },
+    {
+      "id": "q108",
+      "title": "Q108",
+      "type": "choice",
+      "context": {
+        "turn": "8巡目"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "6p",
+        "9p",
+        "1s",
+        "4s",
+        "8m"
+      ],
+      "answer": "1s",
+      "answerLine": "書中解析：1s 1向听【7m x 41, 6p x 37, 9p x 37, 1s x 36, 4s x 36, 8m x 20】dora 9p成雀头的话就成了以下的听牌的最高形。这个形状反过去算的话打1s把。要是巡目再早点的话打8m固定两面的选择也有，但要是自亲8巡目的话打1s能把牌做的更广就更好。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40577147",
+          "url": "https://www.bilibili.com/read/cv40577147"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40577147/q108.png"
+    },
+    {
+      "id": "q109",
+      "title": "Q109",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "1s",
+        "7m",
+        "4p",
+        "8m"
+      ],
+      "answer": "4p",
+      "answerLine": "書中解析：4p 1向听【1s x 36, 7m x 33, 4p x 29, 8m x 17】打4p，相对于跟打1s相比少了7枚，但多了全带或者一杯口这个打点的有利形状。这手除了门清，也可以吃9m或者1s形成高目全带的听牌。这次用来副露的形状，1123s这样的复合型价值就较高。另一方面，留下4p摸到2p 6p的话就是愚形听牌，因此实际上枚数差就没那么重要了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40577457",
+          "url": "https://www.bilibili.com/read/cv40577457"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40577457/q109.png"
+    },
+    {
+      "id": "q110",
+      "title": "Q110",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m 立直",
+        "8m",
+        "7m"
+      ],
+      "answer": "8m 立直",
+      "answerLine": "書中解析：8m 立直 听牌【8m x 8, 7m x 7】打8m 听69m 8枚打7m听14s8m 7枚除非其他问题，不然标准打法就是打带有全带的役种的牌来立直。即便【默听摸到9m就是满贯】，但需要立直的时候也要立直。要是默听的话摸到6m就后悔莫及了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40577457",
+          "url": "https://www.bilibili.com/read/cv40577457"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40577457/q110.png"
+    },
+    {
+      "id": "q111",
+      "title": "Q111",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "1s",
+        "7m",
+        "6p",
+        "9p",
+        "8m"
+      ],
+      "answer": "1s",
+      "answerLine": "書中解析：1s 1向听【1s x 36, 7m x 33, 6p x 29, 9p x 29, 8m x20】虽说能看到全带，但这手高兴的是摸到dora的9p能听牌。打点方面虽然全带那边高，但相比之下，dora自摸能确定1翻，而全带无论摸到什么，除非改变听牌，否则役种不一定成立。在这，【进张最大】还有【摸到dora立直听两面】这些理由打1s就是期待值最高。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40577457",
+          "url": "https://www.bilibili.com/read/cv40577457"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40577457/q111.png"
+    },
+    {
+      "id": "q112",
+      "title": "Q112",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "1s",
+        "7m",
+        "6p",
+        "9p",
+        "8m"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【1s x 35, 7m x 32, 6p x 29, 9p x 29, 8m x 20】因为自己打过4p，因此6p的靠张的价值就下降了。（※成了以下的形状不仅会振听，而且单纯枚数上也有改变）听 47p那这样的话，就瞄准全带把。比起单纯看进章枚数，有价值的进张枚数才是最重要的。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40577457",
+          "url": "https://www.bilibili.com/read/cv40577457"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40577457/q112.png"
+    },
+    {
+      "id": "q113",
+      "title": "Q113",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5s",
+        "8s",
+        "4p",
+        "7p",
+        "9p",
+        "9s"
+      ],
+      "answer": "5s",
+      "answerLine": "書中解析：5s 1向听【5s x 16, 8s x 11, 4p x 8, 7p x 8, 9p x 8, 9s x 7】为了不逃避碰dora，那就留下能以碰dora的时候的好形把。打5s就是最大进张，碰dora的时候就去听靠端牌的坎8p当然了，也能期待听牌后的变化。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40642100",
+          "url": "https://www.bilibili.com/read/cv40642100"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40642100/q113.png"
+    },
+    {
+      "id": "q114",
+      "title": "Q114",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4p",
+        "7p",
+        "9p",
+        "5s",
+        "8s",
+        "6s"
+      ],
+      "answer": "9p",
+      "answerLine": "書中解析：9p 1向听【4p x 12, 7p x 12, 9p x 12, 5s x 12, 8s x 12, 6s x 8】要是碰到dora后的话就是固定到47s的两面听的形状。因为形状已经固定，饼子部分只要一个搭子即可。虽然说是要拆79p，但先从9p开始。下一巡如果摸到3p的话也是可以发展成三面听的。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40642100",
+          "url": "https://www.bilibili.com/read/cv40642100"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40642100/q114.png"
+    },
+    {
+      "id": "q115",
+      "title": "Q115",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4p",
+        "7p",
+        "9p",
+        "2s",
+        "6s",
+        "8s"
+      ],
+      "answer": "8s",
+      "answerLine": "書中解析：8s 1向听【4p x 8, 7p x 8, 9p x 8, 2s x 8, 6s x 8, 8s x 8】前提条件就是，不要错过碰dora,那就把碰完dora后的好形留下把。79p跟68s的坎张比较，从最终形还是变化来讲还是留下79p有利。6s跟8s都是不要的，但有可能下一巡摸到0s所以推荐先打8s。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40642100",
+          "url": "https://www.bilibili.com/read/cv40642100"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40642100/q115.png"
+    },
+    {
+      "id": "q116",
+      "title": "Q116",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2s",
+        "6s",
+        "4p",
+        "7p",
+        "9p",
+        "4s"
+      ],
+      "answer": "6s",
+      "answerLine": "書中解析：6s 1向听【2s x 12, 6s x 12, 4p x 8, 7p x 8, 9p x 8, 4s x 8】前提条件就是，不要错过碰dora,那就把碰完dora后的好形留下把。打6s就是进张最大的强形。打2s的话会形成246s的两坎，碰了dora也是不能听牌的，这点要注意。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40642100",
+          "url": "https://www.bilibili.com/read/cv40642100"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40642100/q116.png"
+    },
+    {
+      "id": "q117",
+      "title": "Q117",
+      "type": "choice",
+      "context": {
+        "turn": "8巡"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8s 立直",
+        "8s"
+      ],
+      "answer": "8s 立直",
+      "answerLine": "書中解析：8s 立直 听牌【8s x 4】听坎8p。要是默听，饼子部分也只有自摸36p5p的3种听两面的变化。虽说有自摸47p去听双碰的变化，但现在是无役状态不能荣和这点很痛。自亲8巡了不太有时间去等变化了，推荐就听牌就立了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40642514",
+          "url": "https://www.bilibili.com/read/cv40642514"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40642514/q117.png"
+    },
+    {
+      "id": "q118",
+      "title": "Q118",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "9p",
+        "4s",
+        "7s"
+      ],
+      "answer": "9p",
+      "answerLine": "書中解析：9p 1向听【4s x 4, 7s x 4】虽说自亲，【无役】【无宝牌】【愚形听牌】，可以说是集齐了所有不利因素。因为有4567p跟4567s的2个连形，为了消除愚形听牌（坎8p）拒听拆牌也是来得及的。要是有了中或者赤的1翻提升，又或者有了好形变化那时候立直就很不错。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40642514",
+          "url": "https://www.bilibili.com/read/cv40642514"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40642514/q118.png"
+    },
+    {
+      "id": "q119",
+      "title": "Q119",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "9p",
+        "4s",
+        "9s",
+        "5p"
+      ],
+      "answer": "9p",
+      "answerLine": "書中解析：9p 1向听【9p x 15, 4s x 15, 9s x 15, 5p x 12】打9p, 4s, 9s进张数都是一样的。饼子部分455679p的形状，是36p8p的两面坎张。索子部的467899s这边，有个隐藏的坎5s进张。饼子成型的话就是9s中的双碰听牌，索子成型的话即使36p的两面听牌。",
+      "solutionText": "虽然说听到带dora中的双碰很有魅力，但最终形上还是想要听牌枚数多的两面听牌。那就为了容易形成两面听牌就推荐打9p。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40642514",
+          "url": "https://www.bilibili.com/read/cv40642514"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40642514/q119.png"
+    },
+    {
+      "id": "q120",
+      "title": "Q120",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "9p",
+        "4s",
+        "8s",
+        "5p"
+      ],
+      "answer": "9p",
+      "answerLine": "書中解析：9p 1向听【9p x 15, 4s x 15, 8s x 15, 5p x 12】打9p, 4s ,8s都是一样的进张枚数。饼子部分455679p的形状，是36p8p的两面坎张。索子部分则是468s的两坎。",
+      "solutionText": "为了提高最终形是两面听牌的这个可能性，愚形部分（468）就不要拆掉打9p就是期待值最大的。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40642514",
+          "url": "https://www.bilibili.com/read/cv40642514"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40642514/q120.png"
+    },
+    {
+      "id": "q121",
+      "title": "Q121",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "6巡",
+        "seatWind": "東家",
+        "event": "上家打出中"
+      },
+      "prompt": "东1局 東家 6巡 上家打出中。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "碰打9p",
+        "9p",
+        "5p",
+        "5s",
+        "7s",
+        "9s"
+      ],
+      "answer": "碰打9p",
+      "answerLine": "書中解析：碰打9p 1向听【9p x 19, 5p x 16, 5s x 15, 7s x 15, 9s x 15】dora中碰。虽然455679p两面坎张，55799s的进张是5689s更广的形状。要听牌最优先的话，那就是要找目前最大进张的，所以打9p是正解。因为对手会警惕碰宝牌，你选择用来“钓鱼”而留下坎8p的听牌，就有点做过头了。首先听牌肯定是最优先的，就打掉让手牌进张数最大的牌把。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40642514",
+          "url": "https://www.bilibili.com/read/cv40642514"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40642514/q121.png"
+    },
+    {
+      "id": "q122",
+      "title": "Q122",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "6巡",
+        "seatWind": "東家",
+        "event": "上家打出中"
+      },
+      "prompt": "东1局 東家 6巡 上家打出中。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "碰打2p",
+        "2p",
+        "9p",
+        "5s",
+        "7s",
+        "9s"
+      ],
+      "answer": "碰打2p",
+      "answerLine": "書中解析：碰打2p 1向听【2p x 16, 9p x 16, 5s x 12, 7s x 12 ,9s x 12】dora 中碰。碰之后打2p还是打9p都是进张数最大。55799s是接受5689s的最广的形状的，打掉的话会比其他少4枚进张枚数。最终形上比起听坎3p，靠近端的坎8p更好，因此打2p是正解。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40642514",
+          "url": "https://www.bilibili.com/read/cv40642514"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40642514/q122.png"
+    },
+    {
+      "id": "q123",
+      "title": "Q123",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "7巡目",
+        "seatWind": "東家",
+        "event": "上家打出0p"
+      },
+      "prompt": "东1局 東家 7巡目 上家打出0p。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "46p吃，然后打2p",
+        "2p"
+      ],
+      "answer": "46p吃，然后打2p",
+      "answerLine": "書中解析：46p吃，然后打2p 听牌【2p x 8】是不是很多人想着食替禁止的规则因为没法用34p吃0p打2p，所以这手不选择吃？实际上用46p吃0p的话那就可以打2p听牌啦，这样既能维持听牌也能用上0p【食替禁止规则】✖ 34p吃0p 打2p○ 46p吃0p 打2p",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40727290",
+          "url": "https://www.bilibili.com/read/cv40727290"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40727290/q123.png"
+    },
+    {
+      "id": "q124",
+      "title": "Q124",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "5巡目",
+        "seatWind": "東家",
+        "event": "上家打出中"
+      },
+      "prompt": "东1局 東家 5巡目 上家打出中。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "碰中打5p",
+        "2p",
+        "5p"
+      ],
+      "answer": "碰中打5p",
+      "answerLine": "書中解析：碰中打5p 听牌【2p x 8, 5p x 8】碰之后是打2p打5p也是听牌，准备好吃0p的情况下所以推荐打5p。要是这样做的话就能46p吃0p打2p去交换了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40727290",
+          "url": "https://www.bilibili.com/read/cv40727290"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40727290/q124.png"
+    },
+    {
+      "id": "q125",
+      "title": "Q125",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "5巡目",
+        "seatWind": "東家"
+      },
+      "prompt": "东1局 東家 5巡目。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "碰东打5p",
+        "4p",
+        "5p"
+      ],
+      "answer": "碰东打5p",
+      "answerLine": "書中解析：碰东打5p 听牌【4p x 8, 5p x8】",
+      "solutionText": "碰了之后也是有满贯的可能性所以可以碰。碰之后的打哪张，从下面2点来看打5p就有利。① 能吃0p (※ 46p吃0p，打4p)② 能选择杠不杠6p",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40727290",
+          "url": "https://www.bilibili.com/read/cv40727290"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40727290/q125.png"
+    },
+    {
+      "id": "q126",
+      "title": "Q126",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "5巡目",
+        "seatWind": "東家"
+      },
+      "prompt": "东1局 東家 5巡目。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "碰 打6p",
+        "5p",
+        "6p"
+      ],
+      "answer": "碰 打6p",
+      "answerLine": "書中解析：碰 打6p 听牌【5p x 8, 6p x 8】碰了之后也是有满贯的可能性所以可以碰。碰之后的打哪张，从下面2点来看打6p就有利。① 有人打出0p能碰 ② 能选择杠不杠7p",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40727290",
+          "url": "https://www.bilibili.com/read/cv40727290"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40727290/q126.png"
+    },
+    {
+      "id": "q127",
+      "title": "Q127",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "6巡目",
+        "seatWind": "東家"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2p",
+        "5p"
+      ],
+      "answer": "5p",
+      "answerLine": "書中解析：5p 听牌【2p x 8, 5p x 8】打2p或者5p都能听牌，但做好吃8p的【食替】的准备就可以打5p。这样做牌的话，就可以67p吃8p打2p了。除了【食替】，自己摸到dora的情况也能打掉比较安全的2p这点也很重要。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40727290",
+          "url": "https://www.bilibili.com/read/cv40727290"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40727290/q127.png"
+    },
+    {
+      "id": "q128",
+      "title": "Q128",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "5巡目",
+        "seatWind": "東家"
+      },
+      "prompt": "东1局 東家 5巡目。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "碰东 打2p",
+        "2p",
+        "3p"
+      ],
+      "answer": "碰东 打2p",
+      "answerLine": "書中解析：碰东 打2p 听牌【2px 8, 3p x 8】为了摸了0p不陷入困境来做牌把。做成上述的牌型的话，即便摸了0p也能跟2p交换。当然，交换的不限于赤宝牌。要是5p很难切出去的场合，比较安全的2p也能交换的打出去。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40727290",
+          "url": "https://www.bilibili.com/read/cv40727290"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40727290/q128.png"
+    },
+    {
+      "id": "q129",
+      "title": "Q129",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2p立直",
+        "2p",
+        "3p",
+        "4p"
+      ],
+      "answer": "2p立直",
+      "answerLine": "書中解析：2p立直 听牌【2p x 7, 3p x 4, 4p x 3】打2p：听147p 7枚→ 立直，自摸，双东满贯。要是荣和14p的话就是跳符跳到50符了。打3p：听4m 2p 共4枚→ 立直，自摸，双东带上了三暗刻的跳满，荣和的话也是50符。虽然有满贯跟跳满的1.5倍打点差，但从枚数以及胡牌的容易程度上，打2p就是期待值最大的。当然了，实战上就要灵活运用了。推进手牌的时候是就要判断是14p还是2p好胡了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40727384",
+          "url": "https://www.bilibili.com/read/cv40727384"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40727384/q129.png"
+    },
+    {
+      "id": "q130",
+      "title": "Q130",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3p立直",
+        "2p",
+        "3p"
+      ],
+      "answer": "3p立直",
+      "answerLine": "書中解析：3p立直 听牌【2p x 8, 3p x 8】切2p还是切3p都是能听牌，从下面2点来看打3p有利。① 能用上4p暗刻来跳符（※ 4p暗刻4符，东暗刻8符）② 摸到第四枚的4p也能暗杠",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40727384",
+          "url": "https://www.bilibili.com/read/cv40727384"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40727384/q130.png"
+    },
+    {
+      "id": "q131",
+      "title": "Q131",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "1p立直",
+        "1p",
+        "2p"
+      ],
+      "answer": "1p立直",
+      "answerLine": "書中解析：1p立直 听牌【1p x 8, 2p x 8】从打点跟效率上当然就是即立了。打1p的话就断么，打2p的话就是平和，单纯的比较的话断么那边会更高。打1p：断么 （荣和的话40符）打2p:平和 （荣和的话30符）另外，（断么路线的话）也有了当摸到第四枚3p也能暗杠的优点",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40727384",
+          "url": "https://www.bilibili.com/read/cv40727384"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40727384/q131.png"
+    },
+    {
+      "id": "q132",
+      "title": "Q132",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "1p立直",
+        "1p",
+        "2p"
+      ],
+      "answer": "1p立直",
+      "answerLine": "書中解析：1p立直  听牌【1p x 8, 2p x 8】打1p是打2p，也无法达成断么，那么定打就是立直要平和。虽说打2p的话摸到第4枚的3p能暗杠，但与其要一个不确定的杠，要一个确定的平和1翻更好。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40727384",
+          "url": "https://www.bilibili.com/read/cv40727384"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40727384/q132.png"
+    },
+    {
+      "id": "q133",
+      "title": "Q133",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "5巡目",
+        "seatWind": "東家"
+      },
+      "prompt": "东1局 東家 5巡目。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "碰东打7p",
+        "6p",
+        "7p"
+      ],
+      "answer": "碰东打7p",
+      "answerLine": "書中解析：碰东打7p 听牌【6p x 8, 7p x 8】碰了之后也有可能满贯所以可以碰。碰之后的打牌，从下面2点来看打7p有利。① 能对应0p来的时候② 摸到dora 2m的话也能选择改到变则三面听。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40727384",
+          "url": "https://www.bilibili.com/read/cv40727384"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40727384/q133.png"
+    },
+    {
+      "id": "q134",
+      "title": "Q134",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "7巡目",
+        "seatWind": "東家"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2m",
+        "3m"
+      ],
+      "answer": "3m",
+      "answerLine": "書中解析：3m 听牌【2m x 7, 3m x 7】打3m: 听58p 2m 共7枚打2m:听14m 攻7枚 因为dora表示牌是1m，所以上述两个牌型听的枚数都一样。满贯确定的情况下变则三面有利",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40727384",
+          "url": "https://www.bilibili.com/read/cv40727384"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40727384/q134.png"
+    },
+    {
+      "id": "q135",
+      "title": "Q135",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "11巡目",
+        "seatWind": "東家"
+      },
+      "prompt": "东1局 東家 11巡目。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "12s吃3，然后打1s",
+        "1s"
+      ],
+      "answer": "12s吃3，然后打1s",
+      "answerLine": "書中解析：12s吃3，然后打1s 听牌【1s x 3】牌型上目前是1s跟北的听牌，但因为有2枚1s被切出因此余下枚数是2枚吃了第4枚的3s打1s，就改成了2s跟北的听牌，枚数也变成3枚了。※ 实战上要考虑到北的胡牌率以及枚数差，灵活的运用【吃】还是【跳过】。平面何切上是个比较难回答的问题，但这里优先考虑【何切的乐趣】，因此特意收录了这道题。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40793248",
+          "url": "https://www.bilibili.com/read/cv40793248"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40793248/q135.png"
+    },
+    {
+      "id": "q136",
+      "title": "Q136",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "11巡目",
+        "seatWind": "東家",
+        "event": "上家打出3s"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "无视",
+        "其他"
+      ],
+      "answer": "无视",
+      "answerLine": "書中解析：无视 听牌听14s北 共7枚因为只是1s跟北的双碰听牌的人要注意。这是14s北的3面听哦。打点满足因此不需要开杠去减少待牌。要是摸了北就有带有三暗刻的跳满了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40793248",
+          "url": "https://www.bilibili.com/read/cv40793248"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40793248/q136.png"
+    },
+    {
+      "id": "q137",
+      "title": "Q137",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "5巡目",
+        "seatWind": "東家",
+        "event": "上家打出9s"
+      },
+      "prompt": "东1局 東家 5巡目 上家打出9s。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "碰 打2s",
+        "6p",
+        "9p",
+        "1s",
+        "2s"
+      ],
+      "answer": "碰 打2s",
+      "answerLine": "書中解析：碰 打2s 听牌【6p x 3, 9p x 3, 1s x 3, 2s x 3】这里的牌型取自【打姬小笨蛋】里的。现状是没役的听牌，但碰了打6p就是【纯全dora1】的有役听牌。打6p：但碰了打2s就是【三色同刻 dora2】的有役听牌打2s：因为切了1枚的3s，所以听牌枚数是一样的，但dora单骑的三色同刻打点更高",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40793248",
+          "url": "https://www.bilibili.com/read/cv40793248"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40793248/q137.png"
+    },
+    {
+      "id": "q138",
+      "title": "Q138",
+      "type": "choice",
+      "context": {
+        "round": "东1局",
+        "turn": "5巡目",
+        "seatWind": "東家",
+        "event": "上家打出9p"
+      },
+      "prompt": "东1局 東家 5巡目 上家打出9p。請先判斷是否鳴牌，再選擇本題最優先操作。",
+      "choices": [
+        "碰 打6p",
+        "6p"
+      ],
+      "answer": "碰 打6p",
+      "answerLine": "書中解析：碰 打6p  听牌【6p x 4】现状是无役听牌，碰只有打6p就是纯全的有役听牌了（※不可以吃了之后打6p食替哦）",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40793248",
+          "url": "https://www.bilibili.com/read/cv40793248"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40793248/q138.png"
+    },
+    {
+      "id": "q139",
+      "title": "Q139",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "暗杠1s",
+        "2s"
+      ],
+      "answer": "暗杠1s",
+      "answerLine": "書中解析：暗杠1s  1向听摸切的话进张最大（28枚），但1s暗杠了之后就有了32符，跟提高1翻基本有了同等价值。杠了之后有效牌24枚，因为是胜负手实战上也是即杠的。【总之先切个2s】这想法的话，比起即杠是损了3枚。打1s: 28枚打2s:21枚杠：24枚，记得要摸岭上牌哦",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40793248",
+          "url": "https://www.bilibili.com/read/cv40793248"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40793248/q139.png"
+    },
+    {
+      "id": "q140",
+      "title": "Q140",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4p",
+        "0p",
+        "7p",
+        "8p",
+        "6s",
+        "7s"
+      ],
+      "answer": "7p",
+      "answerLine": "書中解析：7p 1向听【4p x 16, 0p x 16, 7p x 16, 8p[ x 16, 6s x 12, 7s x 12】一眼看过去就容易暗杠1s打4s，但现在是有6个block的搭子超载的手牌。为了推进向听数就不得不切两面搭子了。7p跟8p的选择上推荐从危险的内侧开始切起。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40793248",
+          "url": "https://www.bilibili.com/read/cv40793248"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40793248/q140.png"
+    },
+    {
+      "id": "q141",
+      "title": "Q141",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "1s",
+        "4s",
+        "1p",
+        "4p",
+        "2s",
+        "4m"
+      ],
+      "answer": "4s",
+      "answerLine": "書中解析：4s 1向听【1s x 19, 4s x 19, 1p x 15, 4p x 15, 2s x 12, 4m x 11】",
+      "solutionText": "把牌拆分成上述的搭子就看到是6搭子的牌了。因为看到平和而去拆掉1组对子的话虽然不错，但打1p的话就有4枚损。打1p：1p成了无关紧要的牌打1s：所有的牌都有用了单凭这个理由说打1s是正解，单纯的不对的。打1s的话摸到1p或者4s的话要打出0s了。正解的话应该是打掉1s的筋牌的4s。虽说找到了正确答案，但过程绕了个大圈。原因就是最开始拆牌型的时候拆的太细了，下次试试拆分成这种模糊的形状。1123440s是2 block",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40793449",
+          "url": "https://www.bilibili.com/read/cv40793449"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40793449/q141.png"
+    },
+    {
+      "id": "q142",
+      "title": "Q142",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4p",
+        "1p",
+        "2p",
+        "1s",
+        "4s",
+        "4m"
+      ],
+      "answer": "4p",
+      "answerLine": "書中解析：4p 1向听【4p x 16, 1p x 12, 2p x 12, 1s x 12, 4s x 12, 4m x 8】2组雀头的组法的话打4p就是进张最大要是说看到门清平和三色就打1p的话就会比打4p相对少4枚。要三色的话还得需要6m 5p 6p 这3种就有点严峻了。打4p的话摸到3p就是平和听牌，那就直线的要最大进张把。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40793449",
+          "url": "https://www.bilibili.com/read/cv40793449"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40793449/q142.png"
+    },
+    {
+      "id": "q143",
+      "title": "Q143",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4m",
+        "6m"
+      ],
+      "answer": "6m",
+      "answerLine": "書中解析：6m 听牌【4m x 4, 6m x 4】作为前提，胡牌就1位因此有役默听来做牌就行。坎张还是双碰听牌，就得要从两面变化的枚数上来考虑了。打4m的话，自摸3m7m就有2种两面变化。打6m的话，自摸3m 36p 58p 一共5种。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40793449",
+          "url": "https://www.bilibili.com/read/cv40793449"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40793449/q143.png"
+    },
+    {
+      "id": "q144",
+      "title": "Q144",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4m",
+        "6m"
+      ],
+      "answer": "6m",
+      "answerLine": "書中解析：6m 听牌【4m x 4, 6m x 4】作为前提，胡牌就1位因此有役默听来做牌就行。打4m就是自摸3m7m的2种两面变化。打6m的话就是3m6p8p的3种两面变化。虽说摸到8p的话就是69p的听牌（※然而9p没役）有点不满，但除了这个以为摸到6p是3面听，因此吃6p是有很大的好处。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40793449",
+          "url": "https://www.bilibili.com/read/cv40793449"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40793449/q144.png"
+    },
+    {
+      "id": "q145",
+      "title": "Q145",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7p",
+        "2s",
+        "0s",
+        "1s",
+        "3p",
+        "6p"
+      ],
+      "answer": "7p",
+      "answerLine": "書中解析：7p 1向听【7p x 22, 2s x 22, 0s x 18, 1s x 17, 3p x 13, 6p x 13】虽然说【全都要鸣牌】而去断么确定打掉1s的形状，但会损掉了36s的进张。其实打1s也只是增加了碰7p这要素。但是碰了7p会破坏掉【这手最强的3面听】而变成双碰听牌，价值降低。反之固定好【这手最强3面听】打7p构成最强的1向听把。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40793449",
+          "url": "https://www.bilibili.com/read/cv40793449"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40793449/q145.png"
+    },
+    {
+      "id": "q146",
+      "title": "Q146",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7p",
+        "2s",
+        "6p",
+        "3s",
+        "6s"
+      ],
+      "answer": "7p",
+      "answerLine": "書中解析：7p 1向听【7p x 23, 2s x 23, 6p x 17, 3s x 14, 6s x 14】虽然说打2s是固定索子3面听，但碰听（7m碰还是7p碰）的时候，1s就成了不能胡牌的3面听了。比起3面听，为了碰听确定断么，打7p就是基本。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40793449",
+          "url": "https://www.bilibili.com/read/cv40793449"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40793449/q146.png"
+    },
+    {
+      "id": "q147",
+      "title": "Q147",
+      "type": "choice",
+      "context": {
+        "round": "南4局",
+        "turn": "6巡目",
+        "seatWind": "南家"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2p",
+        "4s",
+        "7s",
+        "6s",
+        "3p"
+      ],
+      "answer": "6s",
+      "answerLine": "書中解析：6s 1向听【2p x 19, 4s x 19, 7s x 19, 6s x 14, 3p x 13】碰不到南这个役牌就是没役没法荣和。那就以南是3张的前提下争取做到碰听或者吃听把。打6s的话是留下3组雀头后补进行，但无论怎么鸣牌都能保证能听到南上。打2p的按照2组雀头的话打法的话，不是碰南的话都不能碰听。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40867094",
+          "url": "https://www.bilibili.com/read/cv40867094"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40867094/q147.png"
+    },
+    {
+      "id": "q148",
+      "title": "Q148",
+      "type": "choice",
+      "context": {
+        "round": "南4局",
+        "turn": "6巡目",
+        "seatWind": "南家"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6s",
+        "3p",
+        "2p",
+        "4s",
+        "7s"
+      ],
+      "answer": "6s",
+      "answerLine": "書中解析：6s 1向听【6s x 20, 3p x 19, 2p x 16, 4s x 15, 7s x 15】打3p还是打6s都是完全一向听。为了容易鸣牌或者胡牌，留下靠端牌附近的牌是基本。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40867094",
+          "url": "https://www.bilibili.com/read/cv40867094"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40867094/q148.png"
+    },
+    {
+      "id": "q149",
+      "title": "Q149",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "2p",
+        "4s",
+        "7s",
+        "6s",
+        "3p"
+      ],
+      "answer": "2p",
+      "answerLine": "書中解析：2p 1向听【2p x 19, 4s x 19, 7s x 19, 6s x 14, 3p x 13】优先考虑碰南之后的形状。那么瞄准最终型是端牌上的去固定14p听牌是基本。摸了5s完成了一杯口后，那就可以不用靠南也可以默听。自摸8s的时候是无役要立直，但14p的两面听牌还是比较容易胡到的听牌。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40867094",
+          "url": "https://www.bilibili.com/read/cv40867094"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40867094/q149.png"
+    },
+    {
+      "id": "q150",
+      "title": "Q150",
+      "type": "choice",
+      "context": {
+        "round": "南4局",
+        "turn": "6巡目",
+        "seatWind": "南家"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4s",
+        "7s",
+        "6s"
+      ],
+      "answer": "7s",
+      "answerLine": "書中解析：7s 听牌【4s x 7, 7s x 7, 6s x 4】听牌。打4s还是7s，大家都是听58s，但打7s的话摸到3s的时候可以换掉6s变成258s的3面停牌。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40867094",
+          "url": "https://www.bilibili.com/read/cv40867094"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40867094/q150.png"
+    },
+    {
+      "id": "q151",
+      "title": "Q151",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "1s",
+        "北"
+      ],
+      "answer": "北",
+      "answerLine": "書中解析：北 1向听【1s x 12 北 x 12】即便决定好了形状也不要急着打出1s。因为后续自摸到2s或者6s的话就成了下面这个有可能形成平胡的手牌",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40867247",
+          "url": "https://www.bilibili.com/read/cv40867247"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40867247/q151.png"
+    },
+    {
+      "id": "q152",
+      "title": "Q152",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5s",
+        "北"
+      ],
+      "answer": "5s",
+      "answerLine": "書中解析：5s 1向听【5x x 12 , 北 x 12】因为南是役牌，所以最强的5组搭子已经凑齐。即便没了5s摸了4s也能slide（跟1s交换）。比起后续dora边的5s可能变得危险，推荐还是留下安牌。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40867247",
+          "url": "https://www.bilibili.com/read/cv40867247"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40867247/q152.png"
+    },
+    {
+      "id": "q153",
+      "title": "Q153",
+      "type": "choice",
+      "context": {
+        "round": "东1局"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "北",
+        "8s",
+        "7s"
+      ],
+      "answer": "8s",
+      "answerLine": "書中解析：8s 1向听【北 x 20, 8s x 16, 7s x 12】能看到789三色的形状。留下8s确实能提升听牌率，但2p 8s纵向发展的话就没了三色这点很微妙。在这，比起【进张最多（多了4枚）】，【留下安牌】【危险牌先切】【先切了8s胡到9s的容易程度】等等这里好处更胜一筹。这个问题上，是东1局游戏刚开始的时候想象的场面，但要是all last要争一啊，有更高的打点这些价值在的局面的话，那就是直线打北就好了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40867247",
+          "url": "https://www.bilibili.com/read/cv40867247"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40867247/q153.png"
+    },
+    {
+      "id": "q154",
+      "title": "Q154",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "北",
+        "3s",
+        "4s"
+      ],
+      "answer": "北",
+      "answerLine": "書中解析：北 1向听【北 x 20, 3s x 16 , 4s x 12】要是打3s的话，要注意到可能会没有安牌。打北的话，自摸2p 3s的话就是高目的三色听牌。虽说摸了6s会摸破坏三色，但听牌前还是尽可能的去追求三色。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40867247",
+          "url": "https://www.bilibili.com/read/cv40867247"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40867247/q154.png"
+    },
+    {
+      "id": "q155",
+      "title": "Q155",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4m",
+        "3p",
+        "8p",
+        "1p",
+        "6p",
+        "3m"
+      ],
+      "answer": "1p",
+      "answerLine": "書中解析：1p 2向听【4m x 28, 3p x 28, 8p x 28, 1p x 26, 6p x 26, 3m x 22】瞄准的是断么三色。虽说三个雀头后补，但目前现在2向听所以没必要强行弄成2个雀头后补。要是摸了7p发展成下面这样的手牌的时候，留下的4m就会进张更广，三色也容易做出。选择打4m的人，不妨考虑下下一巡摸到2p后的形状。不仅留下多余的浮牌，也会破坏掉了断么三色",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40931934",
+          "url": "https://www.bilibili.com/read/cv40931934"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40931934/q155.png"
+    },
+    {
+      "id": "q156",
+      "title": "Q156",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "1p",
+        "6p",
+        "4m",
+        "3p",
+        "8p"
+      ],
+      "answer": "1p",
+      "answerLine": "書中解析：1p 2向听【8m x 27, 1p x 27, 6p x 27, 4m x 24, 3p x 23, 8p x 23】678三色的2向听。万子部分有25m7m的两面坎张进张所以不动。带着2组雀头后补跟有三色的意识打1p是正解。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40931934",
+          "url": "https://www.bilibili.com/read/cv40931934"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40931934/q156.png"
+    },
+    {
+      "id": "q157",
+      "title": "Q157",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4m",
+        "1p",
+        "8p",
+        "3p",
+        "6p",
+        "3m"
+      ],
+      "answer": "4m",
+      "answerLine": "書中解析：4m 2向听【4m x 28, 1p x 28, 8p x 28, 3p x 26, 6p x 26, 3m x 22】本命是678三色，但有个不能断么的雀头后补（1p对子）有点不满，那先固定两面好了。要是先摸进7p的话就直线瞄准三色，先摸到4p或者5p的话就转换方向瞄准断么就不错。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40931934",
+          "url": "https://www.bilibili.com/read/cv40931934"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40931934/q157.png"
+    },
+    {
+      "id": "q158",
+      "title": "Q158",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4m",
+        "8m",
+        "1p",
+        "6p",
+        "3p",
+        "8p"
+      ],
+      "answer": "1p",
+      "answerLine": "書中解析：1p 2向听【4m x 24, 8m x 24, 1p x 24, 6p x 24, 3p x 20, 8p x 20】要是有1向听的时候有2组的雀头后补的意思的话打1p是正解。虽说678三色是本命，但要是一上来打8p的话，468m的两坎摸进靠张的话，会使手牌多了无用的浮牌。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40931934",
+          "url": "https://www.bilibili.com/read/cv40931934"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40931934/q158.png"
+    },
+    {
+      "id": "q159",
+      "title": "Q159",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "5m",
+        "6m",
+        "8m",
+        "6p",
+        "6s"
+      ],
+      "answer": "6m",
+      "answerLine": "書中解析：6m 1向听【7m x 28, 5m x 16, 6m x 16, 8m x 16, 6p x 16, 6s x 16】这个牌型是【打姬小笨蛋】里出来的。直线打7m的话要是先完成两面的话就会变成单骑听牌。这里就先切6m保留567跟678三色两天平。摸到5p或者5s切8m就是瞄准567三色，摸到8p或者8s的话切5m的话就是瞄准678三色了摸5p：摸8p：",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40975134",
+          "url": "https://www.bilibili.com/read/cv40975134"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40975134/q159.png"
+    },
+    {
+      "id": "q160",
+      "title": "Q160",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "6m",
+        "8m",
+        "6p",
+        "7p",
+        "6s"
+      ],
+      "answer": "7m",
+      "answerLine": "書中解析：7m 1向听【7m x 28, 6m x 16, 8m x 16, 6p x 16, 7p x 16, 6s x 16】要是序盘的话打6m瞄准三色倒是不错，但到了中盘了。那就直线要1向听把。虽说先完成两面的话就会形成单骑听牌，但有了一杯口的役默听也是可以的。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40975134",
+          "url": "https://www.bilibili.com/read/cv40975134"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40975134/q160.png"
+    },
+    {
+      "id": "q161",
+      "title": "Q161",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3p",
+        "3m",
+        "6m",
+        "2s",
+        "8s",
+        "4p"
+      ],
+      "answer": "6m",
+      "answerLine": "書中解析：6m 1向听【3p x 59, 3m 46, 6m x 46, 2s x 45, 8s x 45, 4p x 23】这个牌型是【打姬小笨蛋】里出来的。单纯进张最广就是打3p，但除了饼子形成雀头的话就会变成双碰听牌。这里就打6m瞄准三色一气两天平把。无论切哪张牌，进张都很广，几乎可以保证听牌。因此比起单纯追求进张数量，更应该重视好形的听牌率。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40975134",
+          "url": "https://www.bilibili.com/read/cv40975134"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40975134/q161.png"
+    },
+    {
+      "id": "q162",
+      "title": "Q162",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3p",
+        "2s",
+        "5s",
+        "3m",
+        "6m",
+        "4p"
+      ],
+      "answer": "6m",
+      "answerLine": "書中解析：6m 1向听【3p x 53, 2s x 45, 5s x 45, 3m x40, 6m x 40, 4p x 20】没dora的手牌。因为摸到了会破坏断么的牌，使得一气的价值上升了。单纯打3p就是进张最广，要是有第二个雀头后补的话就会形成双碰听牌。也有为了三色去打4p这一手，但这样的话就没一气了。这里打6m，自然的瞄准了345三色以及一气然后选择期待值最高的牌去做把。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv40975134",
+          "url": "https://www.bilibili.com/read/cv40975134"
+        }
+      ],
+      "questionImage": "assets/extracted_cv40975134/q162.png"
+    },
+    {
+      "id": "q163",
+      "title": "Q163",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "9s",
+        "7p",
+        "8p",
+        "8s"
+      ],
+      "answer": "9s",
+      "answerLine": "書中解析：9s 1向听【9s x 20, 7p x 16, 8p x 16, 8s x 12】打8p的话就提前覆盖到了边7p的平胡一气最好形，但大多数可能最后听到边7p去。想摸到能形成最好形的7s也只有4枚，单纯计算的话是25%（4/16）。剩下的75%就是【没有平胡的愚形一气】或者【无役】的听牌。那就放弃一气打9s进入完全一向听，那么听牌的时候多数就是平胡。因为没了一气，因此摸到7s也能跟1s去交换多了个断么，因此看起来是个里目但也不是。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41003125",
+          "url": "https://www.bilibili.com/read/cv41003125"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41003125/q163.png"
+    },
+    {
+      "id": "q164",
+      "title": "Q164",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "9s",
+        "8p",
+        "7p",
+        "8s",
+        "0s"
+      ],
+      "answer": "8p",
+      "answerLine": "書中解析：8p 1向听【9s x 20, 8p x 19, 7p x 16, 8s x 15, 0s x 11】进入完全一向听的话就是8p与9s的选择。靠着端牌的69p的待牌就比较有魅力，推荐打8p进入包括一气的完全一向听把。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41003125",
+          "url": "https://www.bilibili.com/read/cv41003125"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41003125/q164.png"
+    },
+    {
+      "id": "q165",
+      "title": "Q165",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5p",
+        "9p",
+        "6s",
+        "9s",
+        "5s",
+        "2s"
+      ],
+      "answer": "9p",
+      "answerLine": "書中解析：9p 2向听【5p x 23, 9p x 23, 6s 23, 9s x 23, 5s x 22, 2s x 21】6组搭子超载，拆掉最弱一撘。没有愚形搭子的3雀头的形状，那就拆到一组对子变成2雀头把。考虑【摸到0p】跟【不要让打掉的牌变弱】，那就推荐拆掉靠近端牌额9p对子。注意到这牌有一气的可能，别把6s切了。因为摸到7s的话，可以从狙击一气转到断么的情况也有。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41003125",
+          "url": "https://www.bilibili.com/read/cv41003125"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41003125/q165.png"
+    },
+    {
+      "id": "q166",
+      "title": "Q166",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4p",
+        "2s",
+        "5s",
+        "6s",
+        "9s",
+        "5p"
+      ],
+      "answer": "4p",
+      "answerLine": "書中解析：4p 1向听【4p x 22, 2s x 20, 5s x 20, 6s x 18, 9s x 18, 5p x 16】打4p就是进张最大。虽说能看到这牌不太需要2枚6s,实际上正因为有这2枚的6s，形状上就能对应到了一气跟断么两方面",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41003125",
+          "url": "https://www.bilibili.com/read/cv41003125"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41003125/q166.png"
+    },
+    {
+      "id": "q167",
+      "title": "Q167",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4p",
+        "3m",
+        "6m",
+        "7m",
+        "3p"
+      ],
+      "answer": "4p",
+      "answerLine": "書中解析：4p 1向听【4p x 22, 3m x 20, 6m x 20, 7m x 18, 3p x 16】万子的部分是123m + 345677m的包含3面听的变化。切了4p的话虽然0p会用不上了，但比起看不到的赤宝，优先先保住三面听。摸到9m的话，也有了一气的可能性。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41003479",
+          "url": "https://www.bilibili.com/read/cv41003479"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41003479/q167.png"
+    },
+    {
+      "id": "q168",
+      "title": "Q168",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "9m",
+        "7m",
+        "3m",
+        "6m",
+        "1m",
+        "7s"
+      ],
+      "answer": "7m",
+      "answerLine": "書中解析：7m 1向听【9m x 22, 7m x 18, 3m x 16, 6m x 16, 1m x 12, 7s x 10】进张最大就是9m，但切了会没了一气。这里就【一气】跟【258m3面听】两手都抓因此推荐打7m。虽然相对于打9m损了4枚，但进张数也有18枚。考虑到摸8m是平胡一气dora 1的满贯这想法，这4枚损还是有不错的价值的。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41003479",
+          "url": "https://www.bilibili.com/read/cv41003479"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41003479/q168.png"
+    },
+    {
+      "id": "q169",
+      "title": "Q169",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "9m立直",
+        "9m",
+        "3m",
+        "6m"
+      ],
+      "answer": "9m立直",
+      "answerLine": "書中解析：9m立直 听牌【9m x 10, 3m x 4, 6m x 4】打9m：听258m 10枚打3m：坎8m 4枚打9m立直就是余10枚的立直平胡dora 1的听牌，荣和的话也是5800起步。打3m的虽说有一气，但综合力有点劣势。平面何切上有以下的理由。① 枚数少了60% （打9m是余10，但3m只有余4）② 平胡没了③ 0m的胡牌可能性没了",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41003479",
+          "url": "https://www.bilibili.com/read/cv41003479"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41003479/q169.png"
+    },
+    {
+      "id": "q170",
+      "title": "Q170",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "3p",
+        "4p",
+        "9m"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【8m x 20, 3p x 16, 4p x 16, 9m x 12】打4p就是平胡一气dora 1的最好形，但多数可能听到边7m的愚形听牌上。放弃一气打8m就是20枚进张数的完全一向听，大概率（16/20 = 80%）会形成平和。比起【基本愚形听牌的一气】，【狙击好形确定的平胡】这边期待值更高",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41003479",
+          "url": "https://www.bilibili.com/read/cv41003479"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41003479/q170.png"
+    },
+    {
+      "id": "q171",
+      "title": "Q171",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4p",
+        "7p",
+        "3s",
+        "6s"
+      ],
+      "answer": "7p",
+      "answerLine": "書中解析：7p 1向听【4p x 8, 7p x 8, 3s x 7, 6s x 7】7p还是3s的选择。那就比较下摸到内侧牌的时候。留下3s摸到4s的就是两面听牌。留下7p摸到6p的话就是坎3p的听牌了。打7p → 摸4s:打3s→摸6p:",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41103517",
+          "url": "https://www.bilibili.com/read/cv41103517"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41103517/q171.png"
+    },
+    {
+      "id": "q172",
+      "title": "Q172",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4p",
+        "7p",
+        "3s",
+        "5s"
+      ],
+      "answer": "7p",
+      "answerLine": "書中解析：7p 1向听【4p x 12, 7p x 12】打3s或者5s就是2向听了。在雀头候补是2p的前提下发展的话，总之先打个7p要了1向听把。要是3s或者5s摸进的话就成了以下的完全一向听了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41103517",
+          "url": "https://www.bilibili.com/read/cv41103517"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41103517/q172.png"
+    },
+    {
+      "id": "q173",
+      "title": "Q173",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3s",
+        "6s",
+        "7p",
+        "5s"
+      ],
+      "answer": "3s",
+      "answerLine": "書中解析：3s 1向听【3s x 36, 6s x 36, 7p x 28, 5s x 17】7p跟3s的选择。留下7p后的有效牌是5p ~ 9p。留下3s的有效牌是1s ~ 5s。这里面，摸到4s5s即便有没有3s都能听牌。从听牌形状上考虑留下7p摸到6p 8p的话会形成8枚的两面听牌，但留下3s摸到4s的话会形成6s的亚两面或者4连形的听牌。打3s（留下7p）：打7p（留下3s）：另外，选择打6s的人，要确认自己是否忽略或低估了自摸7饼或5索时的听牌形状。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41103517",
+          "url": "https://www.bilibili.com/read/cv41103517"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41103517/q173.png"
+    },
+    {
+      "id": "q174",
+      "title": "Q174",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7p",
+        "3s",
+        "6s"
+      ],
+      "answer": "3s",
+      "answerLine": "書中解析：3s 1向听【7p x 17, 3s x 17, 6s x 13】7p跟3s的选择。想着听牌发展的有效枚数都是一样，但形状的强度跟摸到相邻牌上有区别。留下7p摸到相邻的6p或者8p让人高兴，但即便有无3s摸到4s都能听牌，因此打3s有利。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41103517",
+          "url": "https://www.bilibili.com/read/cv41103517"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41103517/q174.png"
+    },
+    {
+      "id": "q175",
+      "title": "Q175",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5p",
+        "7p",
+        "2s",
+        "3s",
+        "8p"
+      ],
+      "answer": "5p",
+      "answerLine": "書中解析：5p 1向听【5p x 22, 7p x 16, 2s x 16, 3s x 14, 8p x 8】打5p就是进张最大。即便没了5p摸到6p也能形成69p并且高目有一杯口的听牌，因此看起来是个里目实际上不是。即便先摸到索子也能听牌，那时候就直接立直把。※因为先打了5p所以听7p8p",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41103554",
+          "url": "https://www.bilibili.com/read/cv41103554"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41103554/q175.png"
+    },
+    {
+      "id": "q176",
+      "title": "Q176",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7p",
+        "3s",
+        "6p",
+        "2s",
+        "2p"
+      ],
+      "answer": "3s",
+      "answerLine": "書中解析：3s 1向听【7p x 16, 3s x 16, 6p x 12, 2s x 12, 2p x 8】打3s是断么确定而且也是进张最大的一个。饼子部分拆成246p + 67p把。要是246p这边先完成面子的话，就是58p的平胡听牌了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41103554",
+          "url": "https://www.bilibili.com/read/cv41103554"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41103554/q176.png"
+    },
+    {
+      "id": "q177",
+      "title": "Q177",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5p",
+        "8p",
+        "7p",
+        "2s",
+        "3s"
+      ],
+      "answer": "5p",
+      "answerLine": "書中解析：5p 1向听【5p x 22, 8p x 18, 7p x 12, 2s x 9, 3s x 8】想着要5p靠张而贸然选择打8p的人要注意。打5p的话，摸到14s的时候还是立直听14s，摸到2s或者3s的话就是立直听69p了。自摸1s：自摸2s：",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41103554",
+          "url": "https://www.bilibili.com/read/cv41103554"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41103554/q177.png"
+    },
+    {
+      "id": "q178",
+      "title": "Q178",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4p",
+        "7p",
+        "2s",
+        "6p",
+        "3s",
+        "4s"
+      ],
+      "answer": "4p",
+      "answerLine": "書中解析：4p 1向听【4p x 33, 7p x 33, 2s x 28, 6p x 20, 3s x 8, 4s x 8】固定6p作为雀头而贸然打掉7p的人要注意了。打7p的话要是摸到了25s，会错失了58p的听牌。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41103554",
+          "url": "https://www.bilibili.com/read/cv41103554"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41103554/q178.png"
+    },
+    {
+      "id": "q179",
+      "title": "Q179",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7p",
+        "8s",
+        "9s",
+        "6s",
+        "4m",
+        "6p"
+      ],
+      "answer": "9s",
+      "answerLine": "書中解析：9s 1向听【7p x 29, 8s x 25, 9s x 25, 6s x 21, 4m x 17, 6p x 11】进张最大的话就是打7p，但很大情况万子部分成雀头后会形成边坎7s的愚形听牌。而且，先摸进25m的话剩下的形状也很糟糕。这里，就要利用上6667p这个形状因此最好选择索子来切。打8s还是9s的进张数一样，但为了要0s的进张因此打9s是正解。摸到4p的话还能发展成断么这点也不错。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41103554",
+          "url": "https://www.bilibili.com/read/cv41103554"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41103554/q179.png"
+    },
+    {
+      "id": "q180",
+      "title": "Q180",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6p",
+        "8s",
+        "9s",
+        "6s",
+        "7p",
+        "4m"
+      ],
+      "answer": "6p",
+      "answerLine": "書中解析：6p 1向听【6p x 29, 8s x 16, 9s x 16, 6s x 12, 7p x 11, 4m x 8】想要的是雀头。5667p这个中膨形虽然挺强，但不好拿来做雀头。打6p的话，摸到58s69s既能形成雀头，也有了平胡的听牌。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41103554",
+          "url": "https://www.bilibili.com/read/cv41103554"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41103554/q180.png"
+    },
+    {
+      "id": "q181",
+      "title": "Q181",
+      "type": "choice",
+      "context": {
+        "turn": "6巡目"
+      },
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3p",
+        "9s",
+        "8s",
+        "5s",
+        "6s",
+        "1p"
+      ],
+      "answer": "3p",
+      "answerLine": "書中解析：3p 1向听【3p x 19, 9s x 15, 8s x 13, 5s x 12, 6s x 9, 1p x 8】想要的是雀头。留着3p即便后续靠上了2p或者4p也会导致面子超载而不知道要切啥。那么自亲6巡目的情况下，就冲着要最大进张，先制立直为目标把。打3p的话索子部分4s ~ 9s都是有效牌。根据摸到的牌，听牌形状跟打点虽然说有所不同，但有了dora或者平胡这个役，要确保不用立直也至少有1翻在手。亲家先制立直听宝牌单骑或者边7s好像也不坏。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41165901",
+          "url": "https://www.bilibili.com/read/cv41165901"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41165901/q181.png"
+    },
+    {
+      "id": "q182",
+      "title": "Q182",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "1p",
+        "8s",
+        "9s",
+        "2s",
+        "3s",
+        "3p"
+      ],
+      "answer": "8s",
+      "answerLine": "書中解析：8s 1向听【1p x 23, 8s x 17, 9s x 16, 2s x 13, 3s x 13, 3p x 12】切1p就是进张最广，但除了摸到了dora 9s听牌以外,其他的进张都不太亮眼。那不如试着留下能带来亮眼的进张的部分来做牌呢？打8s的话枚数上稍稍劣势，但至少也保证了平和。留下1p的话，也留下了清一色的可能性。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41165901",
+          "url": "https://www.bilibili.com/read/cv41165901"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41165901/q182.png"
+    },
+    {
+      "id": "q183",
+      "title": "Q183",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6m",
+        "9m",
+        "5p",
+        "5m",
+        "6p",
+        "9p"
+      ],
+      "answer": "9m",
+      "answerLine": "書中解析：9m 1向听【6m x 19, 9m x 19, 5p x 19, 5m x 15, 6p x 15, 9p x 15】进入完全一向听是最好的，所以打9m还是5m的二择。一瞬间，打5p固定dora 6p的对子看起来不错，但实际上不用强行固定对子也是可能用上这2枚6p。饼子的部分不是566p + 789p的形状，而是56p + 6789p这个形状。这里打9m进入以下的完全一向听才是正解。这么组的话摸到了25s，就是断平dora2的满贯听牌（听47p）。当然，也能对应摸上第3枚dora 6p的情况，那时候就是dora 3满贯了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41165901",
+          "url": "https://www.bilibili.com/read/cv41165901"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41165901/q183.png"
+    },
+    {
+      "id": "q184",
+      "title": "Q184",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "5p",
+        "5m",
+        "4m",
+        "6p",
+        "9p"
+      ],
+      "answer": "5p",
+      "answerLine": "書中解析：5p 1向听【5p x 20, 5m x 19, 4m x 16, 6p x 15, 9p x 15】打5p或者5m都是完全一向听。实际上打5p就是发展去等36m的听牌，打5m的就是发展成等47p的听牌，考虑到避开跟dora相同花色的情况，从枚数上看还是打5p有利。实战上也要看看是不是有断么的变化，灵活的打5m也是有可能的。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41165901",
+          "url": "https://www.bilibili.com/read/cv41165901"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41165901/q184.png"
+    },
+    {
+      "id": "q185",
+      "title": "Q185",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "9m",
+        "2p",
+        "3p",
+        "8m"
+      ],
+      "answer": "9m",
+      "answerLine": "書中解析：9m 1向听【9m x 16, 2p x 12, 3p x 12, 8m x 8】考虑到dora 的5s还是双dora的0s的立直听坎5s完全没问题。这就往最大进张做牌就行。打9m就是进张最大，打2p的话就差4枚。确保了打点的情况下，还是自亲胜负手，这4枚差还是挺重要的。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41166134",
+          "url": "https://www.bilibili.com/read/cv41166134"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41166134/q185.png"
+    },
+    {
+      "id": "q186",
+      "title": "Q186",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "打2p立直",
+        "2p"
+      ],
+      "answer": "打2p立直",
+      "answerLine": "書中解析：打2p立直 听牌【2p x 4】",
+      "solutionText": "虽说是坎张愚形听牌，但【听dora， 无役】这些，推荐即立。默听的话变化很少。再说拆听的话要是没了dora进张，打点也会下降，因此现状的话还是为了听牌为目标来做牌把。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41166134",
+          "url": "https://www.bilibili.com/read/cv41166134"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41166134/q186.png"
+    },
+    {
+      "id": "q187",
+      "title": "Q187",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8s",
+        "4s",
+        "6s",
+        "9s",
+        "2p",
+        "3p"
+      ],
+      "answer": "9s",
+      "answerLine": "書中解析：9s 1向听【8s x 16, 4s x 15, 6s x 15, 9s x 15, 2p x 7 3p x 7】打4s, 6s, 8s, 9s的进张数虽然都差不多一样，【dora进张】【自摸7s是一杯口】这些理由，打9s期待值最大。【形成平胡的容易程度】【断么可能性】这些有点差别。打4s: → dora 进张没了，也难以形成平胡打6s：→ 自摸7s的话就是一杯口打8s：→ 难以形成平胡打9s：→ dora进张，一杯口，平胡，所有的要素都保留了",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41166134",
+          "url": "https://www.bilibili.com/read/cv41166134"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41166134/q187.png"
+    },
+    {
+      "id": "q188",
+      "title": "Q188",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8s",
+        "2p",
+        "4s",
+        "3p"
+      ],
+      "answer": "2p",
+      "answerLine": "書中解析：2p 1向听【8s x 16, 2p x 15, 4s x 15, 3p x 11】索子部分拆分成468s + 789s的两坎的话，所有的牌都是有效牌的形状。打8s就是进张最大，但打2p或者4s也就是1枚的差，基本相同。要是1枚差的话，那就为了容易做成平胡打2p就是期待值最大了。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41166134",
+          "url": "https://www.bilibili.com/read/cv41166134"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41166134/q188.png"
+    },
+    {
+      "id": "q189",
+      "title": "Q189",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "7m",
+        "8m",
+        "3p",
+        "7p",
+        "2p"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【7m x 19, 8m x 19, 3p x 19, 7p x 16, 2p x 15】饼子部分拆分成22p + 306778p的话，就有了能拆分出【雀头】跟【两面坎张】的点。下面的3组构造进张数一样。要是8m纵向发展的话会破坏掉平胡这个听牌，因此提前拒绝这个情况打8m就有会最大期待值。打8m：包含了两面坎张打7m：完全一向听打3p：完全一向听",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225251",
+          "url": "https://www.bilibili.com/read/cv41225251"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225251/q189.png"
+    },
+    {
+      "id": "q190",
+      "title": "Q190",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "2p",
+        "7m",
+        "8p",
+        "4p",
+        "7p"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【8m x 19, 2p x 19, 7m x 17, 8p x 16, 4p x 11, 7p x 11】【两面坎张的亚种】。饼子部分就这么留着的话，摸进坎3p的时候就有平胡的听牌。打8m还是2p的进张数都一样就要分情况了。但平面何切上为了平胡确打8m是期待值最大的。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225251",
+          "url": "https://www.bilibili.com/read/cv41225251"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225251/q190.png"
+    },
+    {
+      "id": "q191",
+      "title": "Q191",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "0p",
+        "8p",
+        "7p",
+        "7m"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【8m x 19, 0p x 19, 8p x 19, 7p x 14, 7m x 13】因为要打掉0p所以不要一杯口。8m还是8p虽然进张数一样，但从最终形上看，听牌的枚数会有所差别。※ 经常有不同的意见的地方是，【摸到4p会有强形的变化】这个理由打8p有利。打8p后的变化：打8m后的变化：从以上的牌型来比较的话，【打8p后的变化】确实很强，但同样也包含了3面听的，因此对期待值来讲的影响不算很大。再说这手也是听牌即立的，因此自身替换手牌这个可能性就很低。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225251",
+          "url": "https://www.bilibili.com/read/cv41225251"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225251/q191.png"
+    },
+    {
+      "id": "q192",
+      "title": "Q192",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "7p",
+        "4p",
+        "7m",
+        "8p",
+        "2p"
+      ],
+      "answer": "7p",
+      "answerLine": "書中解析：7p 1向听【8m x 23, 7p x 23, 4p x 19, 7m x 17, 8p x 14, 2p x 11】【带着最终形的意识来选择搭子】的例子。打7p跟8m都是同样进张数，但2p纵向发展的话后听牌的场合，会有3面听因此打7p有利。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225251",
+          "url": "https://www.bilibili.com/read/cv41225251"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225251/q192.png"
+    },
+    {
+      "id": "q193",
+      "title": "Q193",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "7p",
+        "8p",
+        "7m",
+        "0p"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【8m x 22, 7p x 19, 8p x 17, 7m x 16, 0p x 13】打8m就是进张最大期待值最大。067778p的形状，不仅仅是69p的进张，还有进了47p也能发展成优秀的形状。技巧就是这个形状在听牌前都不要动它。",
+      "solutionText": "69p进张 47p进张※ 以下这种形状叫做【完全一向听-烟囱】",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225251",
+          "url": "https://www.bilibili.com/read/cv41225251"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225251/q193.png"
+    },
+    {
+      "id": "q194",
+      "title": "Q194",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "5p",
+        "8p",
+        "7p",
+        "7m"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【8m x 19, 5p x 19, 8p x 15, 7p x 14, 7m x 13】打8m跟打5p都是一样的进张数。要是先摸到6p的话就会有一杯口的这一点，打8m会更好。※ 以下这个形状叫【完全一向听-一杯口】",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225251",
+          "url": "https://www.bilibili.com/read/cv41225251"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225251/q194.png"
+    },
+    {
+      "id": "q195",
+      "title": "Q195",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "1p",
+        "4p",
+        "3p",
+        "7m"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【8m x 19, 1p x 19, 4p x 15, 3p x 14, 7m x 13】打8m还是打1p的，都是进入了完全一向听，但期待值最大还是打8m。【听牌枚数是最强的8枚的69m固定】【摸上2p有一杯口】等等的优秀形状。",
+      "solutionText": "【完全一向听-一杯口】虽说雀头候补的位置有点偏差，但也是满足了以下条件所以是个完美的【完全一向听】① 进张数最大的组合② 摸到什么肯定是听牌，而且肯定能两面听牌。③ 雀头候补2组",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225251",
+          "url": "https://www.bilibili.com/read/cv41225251"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225251/q195.png"
+    },
+    {
+      "id": "q196",
+      "title": "Q196",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "8m",
+        "1p",
+        "4p",
+        "2p",
+        "7m"
+      ],
+      "answer": "8m",
+      "answerLine": "書中解析：8m 1向听【8m x 15, 1p x 15, 4p x 15, 2p x 14, 7m x 9】拆分成以上的搭子的话，最好就考虑【固定强的部分，把弱的部分的靠张留着】打8m就是进张最大期待值最大。想着【碰中】而打掉2p的话，要是先摸到了3p会错过一杯口。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225251",
+          "url": "https://www.bilibili.com/read/cv41225251"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225251/q196.png"
+    },
+    {
+      "id": "q197",
+      "title": "Q197",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3m",
+        "1s",
+        "8s"
+      ],
+      "answer": "3m",
+      "answerLine": "書中解析：3m 1向听【3m x 16, 1s x 12, 8s x 12】134568s，是13s的坎张跟68s的坎张合为一体的【分离两坎】的形状。留下这个形状的话打3m就是进张数以及期待最大。【分离两坎】，很难一下就分清，但要是注意到有个【左右对称性】的特征就好。",
+      "solutionText": "坎2s 坎7s",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225659",
+          "url": "https://www.bilibili.com/read/cv41225659"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225659/q197.png"
+    },
+    {
+      "id": "q198",
+      "title": "Q198",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "3m",
+        "1s",
+        "4s",
+        "8s"
+      ],
+      "answer": "3m",
+      "answerLine": "書中解析：3m 1向听【3m x 16, 1s x 12, 4s x 12, 8s x 12】468s，是46s的坎张跟68s的坎张合为一体的【两坎】形。放弃三色，留下这个形状打3m就是进张最大期待值最大。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225659",
+          "url": "https://www.bilibili.com/read/cv41225659"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225659/q198.png"
+    },
+    {
+      "id": "q199",
+      "title": "Q199",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6s",
+        "1s",
+        "8s",
+        "4s",
+        "5p",
+        "6p"
+      ],
+      "answer": "6s",
+      "answerLine": "書中解析：6s 1向听【6s x 20, 1s x 16, 8s x 16, 4s x 12, 5p x 10, 6p x 10】按照雀头候补2组往1向听做牌这个不错，因此1p,6s跟8s的3个选择。打1s的话会丢掉坎7s的进张，打8s的话会没了坎2s的进张。打6s的话无论那边的进张都有，进张数最大。以下的2组进张数都是一样的。在①的形状上加上一组面子的话就会成了②的形状① 4578s的进张②1578s的进张",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225659",
+          "url": "https://www.bilibili.com/read/cv41225659"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225659/q199.png"
+    },
+    {
+      "id": "q200",
+      "title": "Q200",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "6s",
+        "1s",
+        "4s",
+        "8s",
+        "5p",
+        "6p"
+      ],
+      "answer": "6s",
+      "answerLine": "書中解析：6s 1向听【6s x 20, 1s x 16, 4s x 16, 8s x 16, 5p x 14, 6p x 14】要注意446688s的部分。【跳跃对子切中间的】的形状，因此打6s就是进张最大跟期待值最大。44688s的形状是能接受4578s的进张最广的形状。就做成这个形状把。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225659",
+          "url": "https://www.bilibili.com/read/cv41225659"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225659/q200.png"
+    },
+    {
+      "id": "q201",
+      "title": "Q201",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "4s",
+        "1s",
+        "8s",
+        "6s",
+        "0p",
+        "6p"
+      ],
+      "answer": "4s",
+      "answerLine": "書中解析：4s 1向听【4s x 20, 1s x 19, 8s x16, 6s x 13, 0p x 8, 6p x 8】打1s的话，虽然留下了44688s这个强形（4578s的进张），但112344s的部分是左右对称，打4s也是有相同进张数的特殊形状。再说dora指示牌是4s，那么为了进张最大还是打4s【先摸进47p的的最终形，（带骗筋的双碰听牌）】或者【危险牌（dora指示牌）先切】的层面上打4s有利。以下的2组形状进张数一样。①的12344s的部分要是反过来看成11234的话就是一样的了①②",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225659",
+          "url": "https://www.bilibili.com/read/cv41225659"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225659/q201.png"
+    },
+    {
+      "id": "q202",
+      "title": "Q202",
+      "type": "choice",
+      "context": {},
+      "prompt": "依題圖與專欄解析，選擇本題最優先的打牌／操作。",
+      "choices": [
+        "1s",
+        "4s",
+        "8s",
+        "6s",
+        "5p",
+        "6p"
+      ],
+      "answer": "1s",
+      "answerLine": "書中解析：1s 1向听【1s x 19, 4s x 19, 8s x 15, 6s x 13, 5p x 8, 6p x 8】44688s跟11234688s，这两个形状的进张数是一样的。用上5s有断么，因此打1s就是期待值最大。",
+      "solutionText": "待補：請依原文填入解說。",
+      "tags": [
+        "何切",
+        "自動抽取"
+      ],
+      "difficulty": "中級",
+      "references": [
+        {
+          "label": "Bilibili：cv41225659",
+          "url": "https://www.bilibili.com/read/cv41225659"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225659/q202.png"
+    },
+    {
+      "id": "q203",
+      "title": "Q203",
+      "type": "choice",
+      "context": {},
+      "prompt": "請依題圖判斷最佳打牌（自動骨架；請用回報／校正補上正式選項與答案）",
+      "choices": [
+        "待補答案A",
+        "待補答案B"
+      ],
+      "answer": "待補答案A",
+      "answerLine": "待補：請依原文填入書中解答。",
+      "solutionText": "待補：請依原文填入解說；目前先提供題圖進練習流程。",
+      "tags": [
+        "待補",
+        "何切"
+      ],
+      "difficulty": "待定",
+      "references": [
+        {
+          "label": "Bilibili：cv41225659",
+          "url": "https://www.bilibili.com/read/cv41225659"
+        }
+      ],
+      "questionImage": "assets/extracted_cv41225659/q203.png"
+    }
+  ]
+}

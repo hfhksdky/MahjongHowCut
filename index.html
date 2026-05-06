@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>進度總覽 — 麻將何切 PoC</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header>
+        <h1>麻將何切 — 進度總覽</h1>
+        <p class="subtitle">
+          列表顯示每題作答狀態（未作答 / 曾答對或答錯次數統計）；點題號或「練習」進入練習頁。須透過本機 HTTP server 開啟（見 README）。
+        </p>
+      </header>
+
+      <section class="card">
+        <h2>題庫與進入練習</h2>
+        <p id="summary-line" class="hint"></p>
+        <p class="hint storage-origin-hint">
+          作答紀錄存在瀏覽器 <code>localStorage</code>，與<strong>網址列主機＋埠</strong>綁定（<code>127.0.0.1</code> 與 <code>localhost</code> 不共用）。請與練習頁使用<strong>完全相同</strong>的開啟方式（例如一律 <code>http://127.0.0.1:8765</code>）。
+        </p>
+        <p>
+          目前題庫檔：<code id="bank-label">questions.json</code> —
+          <a href="./index.html">預設 questions.json</a> ｜
+          <a href="./index.html?bank=questions.generated.json">測試 questions.generated.json</a> ｜
+          <a id="link-play-home" href="./play.html">直接練習（從第一題）</a>
+        </p>
+        <p id="dashboard-error" class="bad hidden"></p>
+      </section>
+
+      <section class="card">
+        <h2>題目列表</h2>
+        <div class="table-wrap">
+          <table class="question-index-table">
+            <thead>
+              <tr>
+                <th>題目</th>
+                <th>類型</th>
+                <th>狀態</th>
+                <th>作答次數</th>
+                <th>曾答對</th>
+                <th>上次答錯</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody id="question-index-body"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+    <script src="./dashboard.js"></script>
+  </body>
+</html>

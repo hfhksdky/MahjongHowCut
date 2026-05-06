@@ -1,0 +1,47 @@
+{
+  "cv": 39887515,
+  "fromHtml": null,
+  "source_api": "https://api.bilibili.com/x/article/view (WBI-signed)",
+  "images": {
+    "q15": {
+      "url": "https://i0.hdslb.com/bfs/article/390c6c3fe803faf6fe0b02f8b5e49f1f1642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv39887515/q15.png"
+    },
+    "q16": {
+      "url": "https://i0.hdslb.com/bfs/article/4321509374eafe6a9e501975531610071642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv39887515/q16.png"
+    },
+    "q17": {
+      "url": "https://i0.hdslb.com/bfs/article/da8af1f5b826dd201909741781e8ee321642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv39887515/q17.png"
+    },
+    "q18": {
+      "url": "https://i0.hdslb.com/bfs/article/624086f334c5c4ae182cc7d63beaa8fd1642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv39887515/q18.png"
+    },
+    "q19": {
+      "url": "https://i0.hdslb.com/bfs/article/5a91d81d3eef475478224eb4d72e26781642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv39887515/q19.png"
+    },
+    "q20": {
+      "url": "https://i0.hdslb.com/bfs/article/3e1c72591763dfbed7581f4e94c70b7a1642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv39887515/q20.png"
+    },
+    "q21": {
+      "url": "https://i0.hdslb.com/bfs/article/6a0973f3531655dc4c0a032aa948f97e1642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv39887515/q21.png"
+    },
+    "q22": {
+      "url": "https://i0.hdslb.com/bfs/article/6e38afd3a788997b053d065193bb1d371642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv39887515/q22.png"
+    },
+    "q23": {
+      "url": "https://i0.hdslb.com/bfs/article/a157f44a81d8070c2922df12bf64e4141642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv39887515/q23.png"
+    },
+    "q24": {
+      "url": "https://i0.hdslb.com/bfs/article/57cfde13a1af04f98aebfb6995043a261642900.png",
+      "localRelative": "C:/Users/Windows 11/Documents/Cursor Project/mahjong-tile-efficiency-poc/assets/extracted_cv39887515/q24.png"
+    }
+  }
+}

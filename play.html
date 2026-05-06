@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>練習 — 麻將何切 PoC</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <nav class="top-nav">
+        <a href="./index.html" id="nav-home">進度總覽</a>
+      </nav>
+      <header>
+        <h1>麻將何切練習 PoC</h1>
+        <p class="subtitle">
+          點牌或選選項作答，完成後可看書中解答與解說；進度與題庫請從進度總覽進入並選同一題庫檔。
+        </p>
+      </header>
+
+      <section class="card" id="question-section">
+        <h2>題目</h2>
+        <div class="actions question-nav-actions">
+          <button type="button" id="btn-prev" title="上一題">上一題</button>
+          <label for="question-select">題號：</label>
+          <select id="question-select"></select>
+          <button type="button" id="btn-next" title="下一題">下一題</button>
+        </div>
+        <div class="actions question-nav-actions">
+          <label for="practice-mode">模式：</label>
+          <select id="practice-mode">
+            <option value="all">全部題目</option>
+            <option value="daily10">每日隨機 10 題</option>
+            <option value="wrongRandom">歷史錯題隨機</option>
+          </select>
+          <button type="button" id="btn-reshuffle" title="重新抽樣（同一天 daily10 結果固定）">重抽</button>
+          <span id="mode-summary" class="hint"></span>
+        </div>
+        <!-- 順序：題號 → 複習／紀錄（精簡）→ 題幹詳情 → 題圖 → 作答 → 重設 → 回報校正 -->
+        <div id="question-flags-compact" class="question-flags-compact" aria-label="複習與答題紀錄"></div>
+        <div id="question-detail" class="question-detail"></div>
+        <div id="diagram-wrap" class="diagram-wrap hidden"></div>
+        <div>
+          <h3 id="action-title">手牌</h3>
+          <div id="hand-tiles" class="tiles"></div>
+          <div id="choice-actions" class="choices"></div>
+        </div>
+        <div class="actions">
+          <button id="reset-attempt">重設本次結果</button>
+        </div>
+        <details class="correction-panel" id="correction-panel">
+          <summary>回報／校正本題資料（覆寫本機題庫，之後皆以覆寫版為準）</summary>
+          <p class="hint correction-hint">
+            題圖請以截圖為準。若自動辨識手牌／選項有誤，在此修正後會合併進
+            localStorage；截圖顯示的出牌順序與空格請手動對齊（13 張＋摸牌）。
+          </p>
+          <div id="tile-correction-fields" class="correction-fields">
+            <label>手牌 13（逗號或空白分隔）</label>
+            <textarea id="corr-handTiles" rows="2" placeholder="例如：7m,7m,1p,2p"></textarea>
+            <label for="corr-drawTile">摸入第 14 張（無則留空）</label>
+            <input type="text" id="corr-drawTile" placeholder="例如：8p" />
+          </div>
+          <div id="choice-correction-fields" class="correction-fields hidden">
+            <label for="corr-choices">選項（每行一項，順序與專欄一致）</label>
+            <textarea id="corr-choices" rows="3" placeholder="每行一個選項"></textarea>
+          </div>
+          <label for="corr-answer"><strong>正解 answer</strong>（必須是其中一張可出牌或其中一項選項文字）</label>
+          <input type="text" id="corr-answer" />
+          <label for="corr-answer-line">書中解答句 answerLine（可選）</label>
+          <textarea id="corr-answer-line" rows="2"></textarea>
+          <label for="corr-solution-text">解說 solutionText（可選）</label>
+          <textarea id="corr-solution-text" rows="3"></textarea>
+          <label for="corr-question-image">題圖路徑 questionImage（可選）</label>
+          <input type="text" id="corr-question-image" placeholder='例如 assets/extracted_cv123/q7.png 或網址' />
+          <p id="corr-validation" class="bad hidden" aria-live="polite"></p>
+          <div class="actions correction-actions">
+            <button type="button" id="corr-apply">套用並重新載入本題資料</button>
+            <button type="button" id="corr-clear-q" class="btn-secondary">清除本題覆寫</button>
+            <button type="button" id="corr-copy-patch" class="btn-secondary">複製本題 patch（貼進 JSON）</button>
+          </div>
+        </details>
+        <p id="storage-origin-hint" class="hint storage-origin-hint storage-origin-foot" aria-live="polite"></p>
+      </section>
+
+      <section class="card hidden" id="result-section">
+        <h2>結果</h2>
+        <div class="actions result-nav-actions">
+          <button type="button" id="btn-prev-bottom" title="上一題">上一題</button>
+          <button type="button" id="btn-next-bottom" title="下一題">下一題</button>
+        </div>
+        <p id="result-summary"></p>
+        <h3>書中解答</h3>
+        <p id="answer-line"></p>
+        <h3>解說</h3>
+        <p id="solution-text"></p>
+      </section>
+
+      <section class="card" id="notes-section">
+        <h2>本題研讀筆記</h2>
+        <textarea
+          id="note-input"
+          rows="4"
+          placeholder="例如：我常忽略 2 雀頭理論，先看搭子數再決定切牌。"
+        ></textarea>
+        <div class="actions">
+          <button id="save-note">儲存筆記</button>
+        </div>
+      </section>
+
+      <section class="card" id="stats-section">
+        <h2>統計</h2>
+        <ul id="stats-list"></ul>
+      </section>
+    </main>
+
+    <script src="./script.js"></script>
+  </body>
+</html>

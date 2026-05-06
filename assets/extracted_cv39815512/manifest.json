@@ -1,0 +1,30 @@
+{
+  "cv": 39815512,
+  "source_api": "https://api.bilibili.com/x/article/view (WBI-signed)",
+  "images": {
+    "q1": {
+      "url": "https://i0.hdslb.com/bfs/article/5177b0c3c2483424bdbb916716adc71d1642900.png",
+      "localRelative": "assets/extracted_cv39815512/q1.png"
+    },
+    "q2": {
+      "url": "https://i0.hdslb.com/bfs/article/1b8cc898c372743c315b3ee03b34eb151642900.png",
+      "localRelative": "assets/extracted_cv39815512/q2.png"
+    },
+    "q3": {
+      "url": "https://i0.hdslb.com/bfs/article/79595374712a7215226bb8e7a60f657c1642900.png",
+      "localRelative": "assets/extracted_cv39815512/q3.png"
+    },
+    "q4": {
+      "url": "https://i0.hdslb.com/bfs/article/e8bfc4584ec624c76fe77982f1c4dac01642900.png",
+      "localRelative": "assets/extracted_cv39815512/q4.png"
+    },
+    "q5": {
+      "url": "https://i0.hdslb.com/bfs/article/7ce852803966f52a711b4bc2abf6b5e61642900.png",
+      "localRelative": "assets/extracted_cv39815512/q5.png"
+    },
+    "q6": {
+      "url": "https://i0.hdslb.com/bfs/article/03fca61077e63096d07b964f3955fa741642900.png",
+      "localRelative": "assets/extracted_cv39815512/q6.png"
+    }
+  }
+}

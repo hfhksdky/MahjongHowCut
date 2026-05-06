@@ -9,6 +9,10 @@ body {
   color: #1f2937;
 }
 
+body.preauth .container {
+  display: none;
+}
+
 .container {
   max-width: min(1520px, 96vw);
   margin: 0 auto;
@@ -387,6 +391,51 @@ textarea {
   margin: 14px 0 0;
   font-size: 12px;
   padding: 6px 8px;
+}
+
+.access-gate {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+}
+
+.access-gate-card {
+  width: min(520px, 96vw);
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  box-shadow: 0 8px 28px rgba(15, 23, 42, 0.12);
+  padding: 18px;
+}
+
+.access-gate-title {
+  margin: 0 0 8px;
+}
+
+.access-gate-desc {
+  margin: 0 0 12px;
+  color: #475569;
+}
+
+.access-gate-form {
+  display: flex;
+  gap: 8px;
+}
+
+.access-gate-input {
+  flex: 1 1 auto;
+  padding: 9px 10px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.access-gate-error {
+  margin: 10px 0 0;
+  color: #991b1b;
+  font-size: 13px;
+  min-height: 1.3em;
 }
 
 .result-nav-actions {

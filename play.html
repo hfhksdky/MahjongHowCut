@@ -1,12 +1,14 @@
 <!doctype html>
-<html lang="zh-Hant">
+<html lang="zh-Hant" data-protected-script="./script.js">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex,nofollow,noarchive,nosnippet,noimageindex" />
+    <meta name="googlebot" content="noindex,nofollow,noarchive,nosnippet,noimageindex" />
     <title>練習 — 麻將何切 PoC</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
-  <body>
+  <body class="preauth">
     <main class="container">
       <nav class="top-nav">
         <a href="./index.html" id="nav-home">進度總覽</a>
@@ -113,6 +115,6 @@
       </section>
     </main>
 
-    <script src="./script.js"></script>
+    <script src="./auth.js"></script>
   </body>
 </html>

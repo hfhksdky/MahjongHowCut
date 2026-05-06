@@ -401,26 +401,26 @@ textarea {
   cursor: not-allowed;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 900px) {
   .container {
     padding: 12px;
   }
 
   .choices {
-    gap: 8px;
+    gap: 6px;
   }
 
   .choice-btn {
-    min-width: 108px;
-    min-height: 40px;
-    padding: 7px 10px;
-    font-size: 0.9rem;
-    line-height: 1.2;
-    border-radius: 7px;
+    min-width: 88px !important;
+    min-height: 34px !important;
+    padding: 6px 8px !important;
+    font-size: 0.82rem !important;
+    line-height: 1.15 !important;
+    border-radius: 7px !important;
   }
 
   .inline-outcome {
-    font-size: 10px;
-    max-width: min(88px, 26vw);
+    font-size: 10px !important;
+    max-width: min(72px, 24vw);
   }
 }
